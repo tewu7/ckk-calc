@@ -2,8 +2,8 @@ var savedData = {};
 var settings = {};
 
 function readLocalStorage() {
-	if (localStorage.getItem("calc/ck+")) {
-		savedData = JSON.parse(localStorage.getItem("calc/ck+"));
+	if (localStorage.getItem("calc/ckk-calc")) {
+		savedData = JSON.parse(localStorage.getItem("calc/ckk-calc"));
 	} else {
 		if (localStorage.getItem("box")) {
 			savedData["box"] = JSON.parse(localStorage.getItem("box"));
@@ -27,7 +27,7 @@ function readLocalStorage() {
 }
 
 function writeLocalStorage() {
-	localStorage.setItem("calc/ck+", JSON.stringify(savedData));
+	localStorage.setItem("calc/ckk-calc", JSON.stringify(savedData));
 }
 
 function updateSettings() {
