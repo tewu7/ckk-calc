@@ -639,11 +639,6 @@ input:checked + .fake-checkbox {
 	gap: 12px;
 }
 
-.poke-usage-statistics .rolls {
-	top: auto !important;
-	bottom: 40px !important;
-}
-
 .selection-menu {
 	display: none;
 	z-index: 100;
@@ -1111,50 +1106,8 @@ rt {
 	) !important;
 }
 
-.poke-usage-statistics {
-	background: var(--background);
-	padding-right: 8px;
-	padding-top: 8px;
-	width: 940px;
-	height: 400px;
-}
-
-.poke-usage-statistics-inner {
-	position: relative;
-	height: 100%;
-	width: 100%;
-	margin: 0px !important;
-	margin-top: 8px;
-	margin-right: 8px;
-}
-
 .e4r1 {
 	background: var(--grouping-background) !important;
-}
-
-.poke-statistics-line {
-	background: var(--box-background);
-	position: absolute;
-	top: -4px;
-	bottom: 4px;
-	width: 4px;
-	position: absolute;
-	margin: 0px !important;
-	cursor: pointer;
-}
-
-.usage-point {
-	background: var(--any);
-	position: absolute;
-	width: 8px;
-	height: 8px;
-	border-radius: 5px;
-	margin: 0px !important;
-	cursor: pointer;
-}
-
-.poke-statistics-line:hover, .usage-point:hover {
-	background: var(--highlighted) !important;
 }
 
 #info-popup {

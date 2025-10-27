@@ -23,12 +23,6 @@ function readLocalStorage() {
 	deadBox = orElse(savedData["dead-box"], []);
 	badges = orElse(savedData["badges"], 0);
 	settings = orElse(savedData["settings"], {});
-	if (settings.enableStatistics == undefined) {
-		settings.enableStatistics = true;
-	}
-	if (settings.extraDupes == undefined) {
-		settings.enableStatistics = [];
-	}
 	applySettings();
 }
 
@@ -37,13 +31,11 @@ function writeLocalStorage() {
 }
 
 function updateSettings() {
-	settings.enableStatistics = document.getElementById("enable-statistics").checked;
 	settings.extraDupes = getExtraDupes();
 	applySettings();
 }
 
 function applySettings() {
-	document.getElementById("enable-statistics").checked = settings.enableStatistics == true;
 	document.getElementById("extra-dupes").value = orElse(settings.extraDupes, []).join(" ");
 	updateEngineFlags();
 	savedData["settings"] = settings;
