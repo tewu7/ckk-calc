@@ -8323,7 +8323,7 @@
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "grimer"
+                                "pokemon": "nidoran-f"
                             },
                             {
                                 "chance": 20,
@@ -8355,7 +8355,7 @@
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "poliwag"
+                                "pokemon": "elekid"
                             },
                             {
                                 "chance": 30,
@@ -8517,7 +8517,7 @@
                             {
                                 "chance": 30,
                                 "level": 7,
-                                "pokemon": "oddish"
+                                "pokemon": "nidoran-m"
                             },
                             {
                                 "chance": 20,
@@ -9576,7 +9576,7 @@
                             {
                                 "chance": 30,
                                 "level": 8,
-                                "pokemon": "vulpix"
+                                "pokemon": "houndour"
                             },
                             {
                                 "chance": 30,
@@ -9591,7 +9591,7 @@
                             {
                                 "chance": 10,
                                 "level": 8,
-                                "pokemon": "houndour"
+                                "pokemon": "vulpix"
                             },
                             {
                                 "chance": 5,
