@@ -189,6 +189,9 @@ function initGame() {
 
 function updateEngineFlags() {
 	var flags = ["dvs"];
+	if (settings.enableStatistics) {
+		flags.push("statistics");
+	}
 	setEngineDisplayFlags(flags);
 }
 

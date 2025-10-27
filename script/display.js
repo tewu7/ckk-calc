@@ -410,12 +410,14 @@ function displayPokemon(root, i) {
 			<div class="tab-button" onclick="selectTab(event)">Learnset</div>
 			<div class="tab-button" onclick="selectTab(event)">TM/HM</div>
 			<div class="tab-button" onclick="selectTab(event)">Encounters</div>
+			<div class="engine-flag-statistics tab-button" onclick="selectTab(event)">Statistics</div>
 		</div>
 		<div class="scroll-padding-anchor"></div>
 		<div class="tab-body">
 			<div class="tab-contents">${getPokemonLearnsetDisplay(p)}</div>
 			<div class="tab-contents">${getPokemonTmHmDisplay(p)}</div>
 			<div class="tab-contents">${getPokemonEncountersDisplay(p)}</div>
+			<div class="engine-flag-statistics tab-contents">${getPokemonStatsDisplay(p)}</div>
 		</div>
 	</div>`, 0);
 }
@@ -507,6 +509,34 @@ function getPokemonEncountersDisplay(p) {
 		return v;
 	}
 	return "";
+}
+
+function getPokemonStatsDisplay(p) {
+	var usageLines = "";
+	var usagePoints = "";
+
+	var hTotal = data.trainers.length;
+	for (var i = 0; i < data.trainers.length; i++) {
+		var t = data.trainers[i];
+		var b = bringsByTrainer.get(t.name);
+		var usage = 0;
+		if (b && b.brings.has(p.name)) {
+			usage = b.brings.get(p.name) * 100 / b.total;
+		}
+		var trainerName = getTrainerName(t.name);
+		if (t.name.startsWith("champion-")) {
+			usageLines += createLink(`#/trainer/${t.name}/`, `<div class="poke-statistics-line e4r1" style="left:calc(2px + ${i * 100 / hTotal}%)"><div class="rolls"><center>${trainerName}</center></div></div>`);
+		}
+		if (t.name.startsWith("leader-")) {
+			usageLines += createLink(`#/trainer/${t.name}/`, `<div class="poke-statistics-line" style="left:calc(2px + ${i * 100 / hTotal}%)"><div class="rolls"><center>${trainerName}</center></div></div>`);
+		}
+		usagePoints += createLink(`#/trainer/${t.name}/`, `<div class="usage-point" style="left:${i * 100 / hTotal}%;bottom:${usage}%;"><div class="rolls"><center>${trainerName}</center></div></div>`);
+	}
+
+	return `
+	<div class="engine-flag-statistics poke-usage-statistics">
+		<div class="poke-usage-statistics-inner"">${usageLines}${usagePoints}</div>
+	</div>`;
 }
 
 function displayStat(div, stat) {
@@ -901,7 +931,7 @@ function setItemMenu() {
 }
 
 function setEngineDisplayFlags(enabled) {
-	var flags = ["dvs", "evs", "nature", "ability"];
+	var flags = ["dvs", "evs", "nature", "ability", "statistics"];
 	var sheet = document.getElementById("dynamic-style");
 	var content = "";
 	for (const flag of flags) {
