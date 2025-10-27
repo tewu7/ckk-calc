@@ -38,7 +38,7 @@ function writeLocalStorage() {
 
 function updateSettings() {
 	settings.enableVsRecorder = document.getElementById("enable-vs-recorder").checked;
-	settings.enableStatistics = document.getElementById("enable-statistics").checked;
+	settings.enableStatistics = false; //document.getElementById("enable-statistics").checked;
 	settings.extraDupes = getExtraDupes();
 	applySettings();
 }
