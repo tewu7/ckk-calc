@@ -42776,33 +42776,6 @@
             ]
         },
         {
-            "area": "Ruins of Alph",
-            "name": "psychic-nathan",
-            "team": [
-                {
-                    "item": "berry",
-                    "level": 15,
-                    "moves": [
-                        "icy-wind",
-                        "lovely-kiss",
-                        "psybeam"
-                    ],
-                    "name": "smoochum"
-                },
-                {
-                    "item": "berry",
-                    "level": 16,
-                    "moves": [
-                        "fire-punch",
-                        "mach-punch",
-                        "dizzy-punch",
-                        "thunderpunch"
-                    ],
-                    "name": "magby"
-                }
-            ]
-        },
-        {
             "area": "Violet City Gym",
             "name": "bird-keeper-abe",
             "team": [
@@ -43302,6 +43275,33 @@
                         "body-slam"
                     ],
                     "name": "rhyhorn"
+                }
+            ]
+        },
+        {
+            "area": "Ruins of Alph",
+            "name": "psychic-nathan",
+            "team": [
+                {
+                    "item": "berry",
+                    "level": 15,
+                    "moves": [
+                        "icy-wind",
+                        "lovely-kiss",
+                        "psybeam"
+                    ],
+                    "name": "smoochum"
+                },
+                {
+                    "item": "berry",
+                    "level": 16,
+                    "moves": [
+                        "fire-punch",
+                        "mach-punch",
+                        "dizzy-punch",
+                        "thunderpunch"
+                    ],
+                    "name": "magby"
                 }
             ]
         },
