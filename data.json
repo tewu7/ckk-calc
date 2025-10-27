@@ -1488,7 +1488,7 @@
                         {
                             "chance": 15,
                             "level": 14,
-                            "pokemon": "corsola"
+                            "pokemon": "shellder"
                         },
                         {
                             "chance": 15,
@@ -1505,7 +1505,7 @@
                         {
                             "chance": 15,
                             "level": 14,
-                            "pokemon": "corsola"
+                            "pokemon": "shellder"
                         },
                         {
                             "chance": 15,
@@ -8757,7 +8757,7 @@
                             {
                                 "chance": 15,
                                 "level": 5,
-                                "pokemon": "remoraid"
+                                "pokemon": "qwilfish"
                             }
                         ],
                         "night": [
@@ -8774,7 +8774,7 @@
                             {
                                 "chance": 15,
                                 "level": 5,
-                                "pokemon": "qwilfish"
+                                "pokemon": "remoraid"
                             }
                         ]
                     },
@@ -42923,22 +42923,34 @@
         },
         {
             "area": "Route 32 (gauntlet)",
+            "meta": "start of gauntlet",
             "name": "youngster-albert",
             "team": [
+                {
+                    "item": "miracle-seed",
+                    "level": 18,
+                    "moves": [
+                        "razor-leaf",
+                        "sludge",
+                        "body-slam",
+                        "stun-spore"
+                    ],
+                    "name": "gloom"
+                },
                 {
                     "item": "berry",
                     "level": 19,
                     "moves": [
                         "sludge",
-                        "glare",
                         "mega-drain",
-                        "headbutt"
+                        "toxic",
+                        "disable"
                     ],
-                    "name": "ekans"
+                    "name": "grimer"
                 },
                 {
                     "item": "berry",
-                    "level": 18,
+                    "level": 19,
                     "moves": [
                         "spark",
                         "fire-punch",
@@ -42955,7 +42967,18 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 18,
+                    "level": 19,
+                    "moves": [
+                        "flame-wheel",
+                        "dig",
+                        "double-kick",
+                        "stomp"
+                    ],
+                    "name": "ponyta"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 20,
                     "moves": [
                         "magnitude",
                         "slash",
@@ -42966,7 +42989,7 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 18,
+                    "level": 20,
                     "moves": [
                         "hyper-fang",
                         "double-kick",
@@ -42983,11 +43006,12 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 19,
+                    "level": 25,
                     "moves": [
                         "surf",
-                        "dig",
-                        "ice-punch"
+                        "magnitude",
+                        "ice-punch",
+                        "iron-tail"
                     ],
                     "name": "wooper"
                 },
@@ -43000,7 +43024,7 @@
                         "ice-punch",
                         "body-slam"
                     ],
-                    "name": "poliwag"
+                    "name": "poliwhirl"
                 },
                 {
                     "item": "berry-juice",
@@ -43021,18 +43045,18 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 19,
+                    "level": 21,
                     "moves": [
                         "sludge",
                         "giga-drain",
                         "surf",
-                        "aurora-beam"
+                        "wrap"
                     ],
                     "name": "tentacool"
                 },
                 {
-                    "item": "berry",
-                    "level": 19,
+                    "item": "berry-juice",
+                    "level": 21,
                     "moves": [
                         "psybeam",
                         "bubblebeam",
@@ -43043,14 +43067,14 @@
                 },
                 {
                     "item": "berry",
-                    "level": 19,
+                    "level": 20,
                     "moves": [
-                        "waterfall",
+                        "surf",
                         "dragonbreath",
                         "aurora-beam",
-                        "sludge"
+                        "skull-bash"
                     ],
-                    "name": "horsea"
+                    "name": "wartortle"
                 }
             ]
         },
@@ -43059,8 +43083,8 @@
             "name": "youngster-gordon",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 19,
+                    "item": "spell-tag",
+                    "level": 20,
                     "moves": [
                         "return",
                         "lovely-kiss",
@@ -43071,7 +43095,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 20,
+                    "level": 21,
                     "moves": [
                         "dizzy-punch",
                         "thunderpunch",
@@ -43095,11 +43119,12 @@
         },
         {
             "area": "Route 32 (gauntlet)",
+            "meta": "end of gauntlet",
             "name": "bird-keeper-peter",
             "team": [
                 {
                     "item": "stick",
-                    "level": 18,
+                    "level": 19,
                     "moves": [
                         "wing-attack",
                         "slash",
@@ -43109,7 +43134,7 @@
                     "name": "farfetchd"
                 },
                 {
-                    "item": "berry",
+                    "item": "blackbelt",
                     "level": 20,
                     "moves": [
                         "wing-attack",
@@ -43121,7 +43146,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 18,
+                    "level": 19,
                     "moves": [
                         "aurora-beam",
                         "wing-attack",
@@ -44315,7 +44340,6 @@
         },
         {
             "area": "Goldenrod entrance",
-            "meta": "boom trainer",
             "name": "super-nerd-teru",
             "team": [
                 {
@@ -44381,7 +44405,6 @@
         },
         {
             "area": "Goldenrod entrance",
-            "meta": "boom trainer",
             "name": "super-nerd-eric",
             "team": [
                 {
