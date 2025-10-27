@@ -42595,7 +42595,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 13,
+                    "level": 14,
                     "moves": [
                         "rock-throw",
                         "bite",
@@ -42672,7 +42672,7 @@
                 },
                 {
                     "item": "soft-sand",
-                    "level": 15,
+                    "level": 14,
                     "moves": [
                         "swift",
                         "quick-attack",
@@ -42688,7 +42688,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 15,
+                    "level": 14,
                     "moves": [
                         "bubblebeam",
                         "icy-wind",
@@ -42831,7 +42831,7 @@
                 },
                 {
                     "item": "stick",
-                    "level": 15,
+                    "level": 14,
                     "moves": [
                         "peck",
                         "scratch",
