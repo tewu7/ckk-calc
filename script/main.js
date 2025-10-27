@@ -37,20 +37,13 @@ function writeLocalStorage() {
 }
 
 function updateSettings() {
-	settings.enableVsRecorder = document.getElementById("enable-vs-recorder").checked;
 	settings.enableStatistics = document.getElementById("enable-statistics").checked;
 	settings.extraDupes = getExtraDupes();
 	applySettings();
 }
 
 function applySettings() {
-	document.getElementById("enable-vs-recorder").checked = settings.enableVsRecorder == true;
 	document.getElementById("enable-statistics").checked = settings.enableStatistics == true;
-	if (settings.enableVsRecorder) {
-		document.getElementById("update-vs-recorder").style.display = "block";
-	} else {
-		document.getElementById("update-vs-recorder").style.display = "none";
-	}
 	document.getElementById("extra-dupes").value = orElse(settings.extraDupes, []).join(" ");
 	updateEngineFlags();
 	savedData["settings"] = settings;
