@@ -16846,7 +16846,7 @@
                 {
                     "amount": "renewable",
                     "info": "Renewable from tree by Cherrygrove",
-                    "item": "berry"
+                    "item": "psncureberry"
                 },
                 {
                     "amount": "1",
@@ -16890,14 +16890,14 @@
             "id": 4,
             "items": [
                 {
-                    "amount": "1",
+                    "amount": "99",
                     "info": "Talk to man inside house",
                     "item": "berry"
                 },
                 {
                     "amount": "renewable",
                     "info": "Tree by Mr Pokemon's House",
-                    "item": "psncureberry"
+                    "item": "przcureberry"
                 },
                 {
                     "amount": "renewable",
@@ -16954,7 +16954,7 @@
                 {
                     "amount": "renewable",
                     "info": "Renewable from tree in south west",
-                    "item": "przcureberry"
+                    "item": "burnt-berry"
                 },
                 {
                     "amount": "1",
@@ -17452,7 +17452,7 @@
                 },
                 {
                     "amount": "renewable",
-                    "info": "Tree by national-park entrance",
+                    "info": "Tree on violet city side",
                     "item": "ice-berry"
                 }
             ],
