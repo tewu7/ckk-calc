@@ -8637,7 +8637,7 @@
                             {
                                 "chance": 30,
                                 "level": 12,
-                                "pokemon": "vulpix"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
@@ -8674,7 +8674,7 @@
                             {
                                 "chance": 30,
                                 "level": 12,
-                                "pokemon": "psyduck"
+                                "pokemon": "poliwag"
                             },
                             {
                                 "chance": 20,
@@ -17035,16 +17035,6 @@
             "items": [
                 {
                     "amount": "1",
-                    "info": "Obtained in the Omanyte Puzzle room while holding a water stone",
-                    "item": "mystic-water"
-                },
-                {
-                    "amount": "1",
-                    "info": "Obtained in the Omanyte Puzzle room while holding a water stone",
-                    "item": "mysteryberry"
-                },
-                {
-                    "amount": "1",
                     "info": "Obtained in the Aerodactyl Puzzle room after using Flash",
                     "item": "gold-berry"
                 },
@@ -23709,7 +23699,7 @@
                     "move": "swift"
                 },
                 {
-                    "level": 19,
+                    "level": 18,
                     "move": "thunderpunch"
                 },
                 {
@@ -24104,10 +24094,6 @@
                 },
                 {
                     "level": 16,
-                    "move": "horn-attack"
-                },
-                {
-                    "level": 20,
                     "move": "sludge"
                 },
                 {
@@ -24346,10 +24332,6 @@
                 },
                 {
                     "level": 16,
-                    "move": "horn-attack"
-                },
-                {
-                    "level": 20,
                     "move": "sludge"
                 },
                 {
@@ -41349,8 +41331,8 @@
                     "move": "karate-chop"
                 },
                 {
-                    "level": 19,
-                    "move": "dizzy-punch"
+                    "level": 16,
+                    "move": "spark"
                 },
                 {
                     "level": 23,
@@ -42927,17 +42909,6 @@
             "name": "youngster-albert",
             "team": [
                 {
-                    "item": "miracle-seed",
-                    "level": 18,
-                    "moves": [
-                        "razor-leaf",
-                        "sludge",
-                        "body-slam",
-                        "stun-spore"
-                    ],
-                    "name": "gloom"
-                },
-                {
                     "item": "berry",
                     "level": 19,
                     "moves": [
@@ -43017,7 +42988,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 19,
+                    "level": 18,
                     "moves": [
                         "bubblebeam",
                         "hypnosis",
