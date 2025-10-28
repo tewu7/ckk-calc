@@ -42904,7 +42904,7 @@
             ]
         },
         {
-            "area": "Route 32 (gauntlet)",
+            "area": "Route 32",
             "meta": "start of gauntlet",
             "name": "youngster-albert",
             "team": [
@@ -42933,20 +42933,9 @@
             ]
         },
         {
-            "area": "Route 32 (gauntlet)",
+            "area": "Route 32",
             "name": "picnicker-liz",
             "team": [
-                {
-                    "item": "berry-juice",
-                    "level": 19,
-                    "moves": [
-                        "flame-wheel",
-                        "dig",
-                        "double-kick",
-                        "stomp"
-                    ],
-                    "name": "ponyta"
-                },
                 {
                     "item": "berry-juice",
                     "level": 20,
@@ -42972,7 +42961,7 @@
             ]
         },
         {
-            "area": "Route 32 (gauntlet)",
+            "area": "Route 32",
             "name": "fisher-henry",
             "team": [
                 {
@@ -43011,7 +43000,7 @@
             ]
         },
         {
-            "area": "Route 32 (gauntlet)",
+            "area": "Route 32",
             "name": "fisher-ralph",
             "team": [
                 {
@@ -43050,7 +43039,7 @@
             ]
         },
         {
-            "area": "Route 32 (gauntlet)",
+            "area": "Route 32",
             "name": "youngster-gordon",
             "team": [
                 {
@@ -43089,8 +43078,7 @@
             ]
         },
         {
-            "area": "Route 32 (gauntlet)",
-            "meta": "end of gauntlet",
+            "area": "Route 32",
             "name": "bird-keeper-peter",
             "team": [
                 {
@@ -43126,7 +43114,8 @@
                     ],
                     "name": "delibird"
                 }
-            ]
+            ],
+            "meta": "end of gauntlet"
         },
         {
             "area": "Union cave",
