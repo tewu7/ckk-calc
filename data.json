@@ -43703,18 +43703,19 @@
             "name": "twins-amy-&-may",
             "team": [
                 {
-                    "item": "berry",
+                    "item": "quick-claw",
                     "level": 23,
                     "moves": [
                         "surf",
                         "rock-slide",
-                        "ice-beam"
+                        "ice-beam",
+                        "whirlpool"
                     ],
                     "name": "omanyte"
                 },
                 {
-                    "item": "berry",
-                    "level": 23,
+                    "item": "quick-claw",
+                    "level": 24,
                     "moves": [
                         "leech-life",
                         "psybeam",
@@ -43725,11 +43726,12 @@
                 },
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "sludge",
                         "giga-drain",
-                        "crunch"
+                        "crunch",
+                        "glare"
                     ],
                     "name": "arbok"
                 }
@@ -43763,7 +43765,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 22,
+                    "level": 24,
                     "moves": [
                         "sludge",
                         "giga-drain",
@@ -43789,19 +43791,19 @@
                     "name": "beedrill"
                 },
                 {
-                    "item": "berry",
+                    "item": "quick-claw",
                     "level": 22,
                     "moves": [
                         "rock-slide",
                         "hydro-pump",
                         "submission",
-                        "aurora-beam"
+                        "giga-drain"
                     ],
                     "name": "kabuto"
                 },
                 {
                     "item": "berry",
-                    "level": 21,
+                    "level": 24,
                     "moves": [
                         "aurora-beam",
                         "wing-attack",
@@ -43817,7 +43819,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "rock-slide",
                         "earthquake",
@@ -43828,7 +43830,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 24,
+                    "level": 25,
                     "moves": [
                         "wing-attack",
                         "steel-wing",
@@ -43836,6 +43838,17 @@
                         "light-screen"
                     ],
                     "name": "ledian"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 24,
+                    "moves": [
+                        "psychic",
+                        "sludge",
+                        "toxic",
+                        "protect"
+                    ],
+                    "name": "venonat"
                 },
                 {
                     "item": "pink-bow",
@@ -43855,18 +43868,7 @@
             "name": "leader-bugsy",
             "team": [
                 {
-                    "item": "gold-berry",
-                    "level": 24,
-                    "moves": [
-                        "sleep-powder",
-                        "psychic",
-                        "psywave",
-                        "giga-drain"
-                    ],
-                    "name": "butterfree"
-                },
-                {
-                    "item": "gold-berry",
+                    "item": "miracleberry",
                     "level": 24,
                     "moves": [
                         "glare",
@@ -43886,6 +43888,17 @@
                         "seismic-toss"
                     ],
                     "name": "pinsir"
+                },
+                {
+                    "item": "gold-berry",
+                    "level": 24,
+                    "moves": [
+                        "sleep-powder",
+                        "psychic",
+                        "psywave",
+                        "giga-drain"
+                    ],
+                    "name": "butterfree"
                 },
                 {
                     "item": "gold-berry",
