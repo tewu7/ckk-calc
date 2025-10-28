@@ -43463,7 +43463,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "flame-wheel",
                         "bite",
@@ -43473,15 +43473,15 @@
                     "name": "houndour"
                 },
                 {
-                    "item": "berry",
+                    "item": "miracleberry",
                     "level": 23,
                     "moves": [
-                        "psybeam",
-                        "seismic-toss",
-                        "ice-punch",
-                        "thunderpunch"
+                        "peck",
+                        "steel-wing",
+                        "toxic",
+                        "protect"
                     ],
-                    "name": "drowzee"
+                    "name": "skarmory"
                 }
             ]
         },
@@ -43502,7 +43502,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 20,
+                    "level": 21,
                     "moves": [
                         "slash",
                         "metal-claw",
@@ -43519,7 +43519,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "spark",
                         "thunder-wave",
@@ -43530,7 +43530,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 21,
+                    "level": 22,
                     "moves": [
                         "psybeam",
                         "recover",
@@ -43596,7 +43596,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 25,
                     "moves": [
                         "transform"
                     ],
@@ -43615,7 +43615,7 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "synthesis",
                         "giga-drain",
@@ -43632,7 +43632,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 25,
                     "moves": [
                         "transform"
                     ],
@@ -43651,7 +43651,7 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "fire-punch",
                         "double-edge",
@@ -43668,7 +43668,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 25,
                     "moves": [
                         "transform"
                     ],
@@ -43687,7 +43687,7 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "waterfall",
                         "ice-punch",
