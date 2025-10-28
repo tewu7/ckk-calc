@@ -10677,111 +10677,111 @@
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "pikachu"
+                                "pokemon": "bulbasaur"
                             },
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "mareep"
+                                "pokemon": "charmander"
                             },
                             {
                                 "chance": 20,
                                 "level": 5,
-                                "pokemon": "voltorb"
+                                "pokemon": "totodile"
                             },
                             {
                                 "chance": 10,
                                 "level": 5,
-                                "pokemon": "elekid"
+                                "pokemon": "squirtle"
                             },
                             {
                                 "chance": 5,
                                 "level": 5,
-                                "pokemon": "pikachu"
+                                "pokemon": "squirtle"
                             },
                             {
                                 "chance": 4,
                                 "level": 5,
-                                "pokemon": "mareep"
+                                "pokemon": "eevee"
                             },
                             {
                                 "chance": 1,
                                 "level": 5,
-                                "pokemon": "elekid"
+                                "pokemon": "eevee"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "bellsprout"
+                                "pokemon": "totodile"
                             },
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "oddish"
+                                "pokemon": "bulbasaur"
                             },
                             {
                                 "chance": 20,
                                 "level": 5,
-                                "pokemon": "exeggcute"
+                                "pokemon": "charmander"
                             },
                             {
                                 "chance": 10,
                                 "level": 5,
-                                "pokemon": "sunkern"
+                                "pokemon": "cyndaquil"
                             },
                             {
                                 "chance": 5,
                                 "level": 5,
-                                "pokemon": "hoppip"
+                                "pokemon": "cyndaquil"
                             },
                             {
                                 "chance": 4,
                                 "level": 5,
-                                "pokemon": "paras"
+                                "pokemon": "eevee"
                             },
                             {
                                 "chance": 1,
                                 "level": 5,
-                                "pokemon": "tangela"
+                                "pokemon": "eevee"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "ponyta"
+                                "pokemon": "charmander"
                             },
                             {
                                 "chance": 30,
                                 "level": 5,
-                                "pokemon": "growlithe"
+                                "pokemon": "totodile"
                             },
                             {
                                 "chance": 20,
                                 "level": 5,
-                                "pokemon": "vulpix"
+                                "pokemon": "bulbasaur"
                             },
                             {
                                 "chance": 10,
                                 "level": 5,
-                                "pokemon": "magby"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 5,
                                 "level": 5,
-                                "pokemon": "houndour"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 4,
                                 "level": 5,
-                                "pokemon": "slugma"
+                                "pokemon": "eevee"
                             },
                             {
                                 "chance": 1,
                                 "level": 5,
-                                "pokemon": "magby"
+                                "pokemon": "eevee"
                             }
                         ]
                     },
@@ -42977,14 +42977,14 @@
                 },
                 {
                     "item": "berry",
-                    "level": 18,
+                    "level": 21,
                     "moves": [
                         "bubblebeam",
                         "hypnosis",
                         "ice-punch",
                         "body-slam"
                     ],
-                    "name": "poliwhirl"
+                    "name": "poliwag"
                 },
                 {
                     "item": "berry-juice",
@@ -43079,6 +43079,7 @@
         },
         {
             "area": "Route 32",
+            "meta": "end of gauntlet",
             "name": "bird-keeper-peter",
             "team": [
                 {
@@ -43114,15 +43115,15 @@
                     ],
                     "name": "delibird"
                 }
-            ],
-            "meta": "end of gauntlet"
+            ]
         },
         {
             "area": "Union cave",
+            "meta": "start of gauntlet",
             "name": "hiker-daniel",
             "team": [
                 {
-                    "item": "berry",
+                    "item": "hard-stone",
                     "level": 22,
                     "moves": [
                         "submission",
@@ -43133,7 +43134,7 @@
                 },
                 {
                     "item": "pink-bow",
-                    "level": 22,
+                    "level": 24,
                     "moves": [
                         "rock-slide",
                         "dig",
@@ -43148,8 +43149,8 @@
             "name": "firebreather-bill",
             "team": [
                 {
-                    "item": "pink-bow",
-                    "level": 20,
+                    "item": "twistedspoon",
+                    "level": 19,
                     "moves": [
                         "sludge",
                         "selfdestruct",
@@ -43160,7 +43161,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "flame-wheel",
                         "confuse-ray",
@@ -43181,13 +43182,14 @@
                     "moves": [
                         "rock-throw",
                         "dig",
-                        "body-slam"
+                        "body-slam",
+                        "selfdestruct"
                     ],
                     "name": "geodude"
                 },
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 24,
                     "moves": [
                         "sludge",
                         "giga-drain",
@@ -43204,7 +43206,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "fire-punch",
                         "seismic-toss",
@@ -43215,7 +43217,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "flame-wheel",
                         "rock-slide",
@@ -43231,7 +43233,7 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 22,
+                    "level": 24,
                     "moves": [
                         "jump-kick",
                         "rock-slide",
@@ -43242,17 +43244,17 @@
                 },
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "waterfall",
                         "ice-beam",
                         "double-edge",
-                        "seismic-toss"
+                        "icy-wind"
                     ],
                     "name": "marill"
                 },
                 {
-                    "item": "berry",
+                    "item": "quick-claw",
                     "level": 21,
                     "moves": [
                         "rock-throw",
@@ -43266,28 +43268,30 @@
         },
         {
             "area": "Ruins of Alph",
+            "meta": "you can leave after this fight one time",
             "name": "psychic-nathan",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 15,
+                    "item": "twistedspoon",
+                    "level": 23,
                     "moves": [
-                        "icy-wind",
-                        "lovely-kiss",
-                        "psybeam"
+                        "giga-drain",
+                        "psybeam",
+                        "egg-bomb",
+                        "sleep-powder"
                     ],
-                    "name": "smoochum"
+                    "name": "exeggcute"
                 },
                 {
-                    "item": "berry",
-                    "level": 16,
+                    "item": "twistedspoon",
+                    "level": 24,
                     "moves": [
-                        "fire-punch",
-                        "mach-punch",
-                        "dizzy-punch",
-                        "thunderpunch"
+                        "psybeam",
+                        "headbutt",
+                        "meditate",
+                        "thunder-wave"
                     ],
-                    "name": "magby"
+                    "name": "drowzee"
                 }
             ]
         },
@@ -43308,7 +43312,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 22,
+                    "level": 24,
                     "moves": [
                         "bubblebeam",
                         "psybeam",
@@ -43324,8 +43328,8 @@
             "name": "hiker-leonard",
             "team": [
                 {
-                    "item": "pink-bow",
-                    "level": 21,
+                    "item": "soft-sand",
+                    "level": 22,
                     "moves": [
                         "selfdestruct",
                         "rock-slide",
@@ -43335,7 +43339,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "psybeam",
                         "body-slam",
@@ -43363,7 +43367,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 21,
+                    "level": 22,
                     "moves": [
                         "sludge",
                         "crunch",
@@ -43376,6 +43380,7 @@
         },
         {
             "area": "Union cave",
+            "meta": "end of gauntlet",
             "name": "pokemaniac-larry",
             "team": [
                 {
@@ -43391,18 +43396,18 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "swift",
                         "surf",
-                        "thunderpunch",
+                        "fire-punch",
                         "shadow-ball"
                     ],
                     "name": "furret"
                 },
                 {
                     "item": "focus-band",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "swift",
                         "submission",
@@ -43418,10 +43423,10 @@
             "name": "hiker-anthony",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 22,
+                    "item": "blackbelt",
+                    "level": 24,
                     "moves": [
-                        "karate-chop",
+                        "low-kick",
                         "rock-slide",
                         "thrash",
                         "thunderpunch"
@@ -43430,11 +43435,11 @@
                 },
                 {
                     "item": "blackbelt",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "dig",
                         "rock-slide",
-                        "slash",
+                        "endure",
                         "reversal"
                     ],
                     "name": "diglett"
