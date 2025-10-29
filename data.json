@@ -44275,17 +44275,6 @@
                     ],
                     "name": "persian"
                 },
-                {
-                    "item": "leftovers",
-                    "level": 29,
-                    "moves": [
-                        "surf",
-                        "toxic",
-                        "confuse-ray",
-                        "whirlpool"
-                    ],
-                    "name": "mantine"
-                }
             ]
         },
         {
