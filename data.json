@@ -3854,7 +3854,7 @@
                             {
                                 "chance": 30,
                                 "level": 16,
-                                "pokemon": "koffing"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
@@ -3886,7 +3886,7 @@
                             {
                                 "chance": 30,
                                 "level": 16,
-                                "pokemon": "rattata"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 30,
@@ -3928,7 +3928,7 @@
                             {
                                 "chance": 30,
                                 "level": 16,
-                                "pokemon": "grimer"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
@@ -4639,7 +4639,7 @@
                             {
                                 "chance": 20,
                                 "level": 19,
-                                "pokemon": "skiploom"
+                                "pokemon": "pineco"
                             },
                             {
                                 "chance": 10,
@@ -4723,7 +4723,7 @@
                             {
                                 "chance": 5,
                                 "level": 19,
-                                "pokemon": "gastly"
+                                "pokemon": "ekans"
                             },
                             {
                                 "chance": 4,
@@ -8963,7 +8963,7 @@
                             {
                                 "chance": 30,
                                 "level": 18,
-                                "pokemon": "meowth"
+                                "pokemon": "nidoran-m"
                             },
                             {
                                 "chance": 30,
@@ -8978,7 +8978,7 @@
                             {
                                 "chance": 10,
                                 "level": 18,
-                                "pokemon": "nidoran-m"
+                                "pokemon": "meowth"
                             },
                             {
                                 "chance": 5,
@@ -9029,12 +9029,12 @@
                             {
                                 "chance": 10,
                                 "level": 21,
-                                "pokemon": "abra"
+                                "pokemon": "houndour"
                             },
                             {
                                 "chance": 5,
                                 "level": 21,
-                                "pokemon": "aipom"
+                                "pokemon": "magnemite"
                             },
                             {
                                 "chance": 4,
@@ -9066,12 +9066,12 @@
                             {
                                 "chance": 10,
                                 "level": 21,
-                                "pokemon": "sunflora"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 5,
                                 "level": 21,
-                                "pokemon": "magnemite"
+                                "pokemon": "aipom"
                             },
                             {
                                 "chance": 4,
@@ -9088,7 +9088,7 @@
                             {
                                 "chance": 30,
                                 "level": 21,
-                                "pokemon": "drowzee"
+                                "pokemon": "girafarig"
                             },
                             {
                                 "chance": 30,
@@ -9103,7 +9103,7 @@
                             {
                                 "chance": 10,
                                 "level": 21,
-                                "pokemon": "natu"
+                                "pokemon": "poliwag"
                             },
                             {
                                 "chance": 5,
