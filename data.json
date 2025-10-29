@@ -19097,7 +19097,7 @@
         {
             "accuracy": 100,
             "extra": [
-                "50% chance to lower opponent's defense"
+                "100% chance to lower opponent's defense"
             ],
             "index": 249,
             "name": "rock-smash",
@@ -44088,18 +44088,18 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 26,
+                    "level": 27,
                     "moves": [
                         "rollout",
                         "dig",
                         "body-slam",
-                        "curse"
+                        "swagger"
                     ],
                     "name": "donphan"
                 },
                 {
                     "item": "berry-juice",
-                    "level": 27,
+                    "level": 28,
                     "moves": [
                         "body-slam",
                         "submission",
@@ -44108,12 +44108,13 @@
                     "name": "teddiursa"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 26,
+                    "item": "soft-sand",
+                    "level": 29,
                     "moves": [
                         "swift",
                         "wing-attack",
-                        "quick-attack"
+                        "quick-attack",
+                        "mud-slap"
                     ],
                     "name": "fearow"
                 }
@@ -44125,12 +44126,12 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 26,
+                    "level": 27,
                     "moves": [
                         "giga-drain",
                         "sludge",
                         "sleep-powder",
-                        "double-edge"
+                        "body-slam"
                     ],
                     "name": "ivysaur"
                 },
@@ -44147,7 +44148,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 26,
+                    "level": 28,
                     "moves": [
                         "waterfall",
                         "ice-punch",
@@ -44158,12 +44159,12 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 26,
+                    "level": 28,
                     "moves": [
                         "dig",
                         "rock-slide",
                         "return",
-                        "submission"
+                        "rock-smash"
                     ],
                     "name": "sandslash"
                 }
@@ -44175,8 +44176,8 @@
             "name": "picnicker-gina",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 26,
+                    "item": "blackglasses",
+                    "level": 27,
                     "moves": [
                         "waterfall",
                         "ice-punch",
@@ -44198,7 +44199,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 26,
+                    "level": 27,
                     "moves": [
                         "synthesis",
                         "giga-drain",
@@ -44225,8 +44226,8 @@
                     "name": "noctowl"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 27,
+                    "item": "pink-bow",
+                    "level": 28,
                     "moves": [
                         "flamethrower",
                         "crunch",
@@ -44253,26 +44254,37 @@
             "name": "camper-todd",
             "team": [
                 {
-                    "item": "pink-bow",
-                    "level": 27,
+                    "item": "blackbelt",
+                    "level": 28,
                     "moves": [
-                        "return",
-                        "shadow-ball",
-                        "crunch",
-                        "quick-attack"
+                        "fire-punch",
+                        "ice-punch",
+                        "thunderpunch",
+                        "mach-punch"
                     ],
-                    "name": "raticate"
+                    "name": "hitmonchan"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 26,
+                    "item": "miracleberry",
+                    "level": 28,
                     "moves": [
-                        "bubblebeam",
-                        "dig",
-                        "body-slam",
-                        "rock-throw"
+                        "slash",
+                        "shadow-ball",
+                        "thunderbolt",
+                        "bubblebeam"
                     ],
-                    "name": "quagsire"
+                    "name": "persian"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 29,
+                    "moves": [
+                        "surf",
+                        "toxic",
+                        "confuse-ray",
+                        "whirlpool"
+                    ],
+                    "name": "mantine"
                 }
             ]
         },
@@ -44282,25 +44294,26 @@
             "name": "pokefanm-brandon",
             "team": [
                 {
-                    "item": "light-ball",
-                    "level": 27,
+                    "item": "hard-stone",
+                    "level": 29,
                     "moves": [
-                        "thunderbolt",
-                        "quick-attack",
-                        "submission"
+                        "flamethrower",
+                        "rock-slide",
+                        "earthquake",
+                        "toxic"
                     ],
-                    "name": "pikachu"
+                    "name": "magcargo"
                 },
                 {
                     "item": "berry-juice",
                     "level": 27,
                     "moves": [
-                        "ice-punch",
-                        "thunderpunch",
-                        "attract",
-                        "dizzy-punch"
+                        "wing-attack",
+                        "giga-drain",
+                        "hypnosis",
+                        "confuse-ray"
                     ],
-                    "name": "clefairy"
+                    "name": "golbat"
                 }
             ]
         },
