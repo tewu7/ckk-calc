@@ -17104,11 +17104,6 @@
             "items": [
                 {
                     "amount": "renewable",
-                    "info": "Buyable in mart",
-                    "item": "charcoal"
-                },
-                {
-                    "amount": "renewable",
                     "info": "Tree by Kurt's house",
                     "item": "burnt-berry"
                 },
@@ -17116,6 +17111,11 @@
                     "amount": "1",
                     "info": "Talk to Kurt after beating slowpoke well grunts",
                     "item": "lure-ball"
+                },
+                {
+                    "amount": "1",
+                    "info": "Talk to charcoal apprentice after obtaining cut",
+                    "item": "charcoal"
                 },
                 {
                     "amount": "1",
@@ -43726,7 +43726,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 22,
                     "moves": [
                         "sludge",
                         "giga-drain",
