@@ -23086,7 +23086,7 @@
             "evolutions": [
                 {
                     "into": "pidgeot",
-                    "level": 36,
+                    "level": 31,
                     "method": "level"
                 }
             ],
@@ -23108,10 +23108,6 @@
                 {
                     "level": 28,
                     "move": "steel-wing"
-                },
-                {
-                    "level": 34,
-                    "move": "return"
                 }
             ],
             "name": "pidgeotto",
@@ -23160,12 +23156,12 @@
                     "move": "wing-attack"
                 },
                 {
-                    "level": 36,
-                    "move": "steel-wing"
+                    "level": 31,
+                    "move": "return"
                 },
                 {
-                    "level": 40,
-                    "move": "return"
+                    "level": 36,
+                    "move": "steel-wing"
                 },
                 {
                     "level": 45,
@@ -29050,7 +29046,7 @@
                     "move": "waterfall"
                 },
                 {
-                    "level": 50,
+                    "level": 43,
                     "move": "ice-beam"
                 }
             ],
@@ -29105,14 +29101,10 @@
                 },
                 {
                     "level": 35,
-                    "move": "tri-attack"
+                    "move": "waterfall"
                 },
                 {
                     "level": 43,
-                    "move": "twineedle"
-                },
-                {
-                    "level": 50,
                     "move": "ice-beam"
                 },
                 {
@@ -31218,7 +31210,7 @@
             "evolutions": [
                 {
                     "into": "seadra",
-                    "level": 32,
+                    "level": 28,
                     "method": "level"
                 }
             ],
@@ -31247,11 +31239,11 @@
                     "move": "bubblebeam"
                 },
                 {
-                    "level": 27,
+                    "level": 25,
                     "move": "dragonbreath"
                 },
                 {
-                    "level": 32,
+                    "level": 27,
                     "move": "waterfall"
                 },
                 {
@@ -40096,15 +40088,11 @@
                     "move": "bubblebeam"
                 },
                 {
-                    "level": 32,
+                    "level": 31,
                     "move": "octazooka"
                 },
                 {
                     "level": 37,
-                    "move": "octazooka"
-                },
-                {
-                    "level": 38,
                     "move": "ice-beam"
                 },
                 {
