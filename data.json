@@ -29694,7 +29694,7 @@
             "evolutions": [
                 {
                     "into": "kingler",
-                    "level": 28,
+                    "level": 25,
                     "method": "level"
                 }
             ],
@@ -29714,7 +29714,7 @@
                     "move": "bubblebeam"
                 },
                 {
-                    "level": 26,
+                    "level": 24,
                     "move": "dig"
                 }
             ],
