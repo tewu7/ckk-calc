@@ -31562,8 +31562,8 @@
                     "move": "bubblebeam"
                 },
                 {
-                    "level": 50,
-                    "move": "hydro-pump"
+                    "level": 28,
+                    "move": "psybeam"
                 }
             ],
             "name": "staryu",
@@ -43928,8 +43928,19 @@
             "name": "bug-catcher-wayne",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 26,
+                    "item": "scope-lens",
+                    "level": 28,
+                    "moves": [
+                        "ice-punch",
+                        "thunderpunch",
+                        "reflect",
+                        "light-screen"
+                    ],
+                    "name": "ledian"
+                },
+                {
+                    "item": "scope-lens",
+                    "level": 29,
                     "moves": [
                         "giga-drain",
                         "sludge-bomb",
@@ -43939,26 +43950,15 @@
                     "name": "beedrill"
                 },
                 {
-                    "item": "berry",
+                    "item": "scope-lens",
                     "level": 29,
                     "moves": [
-                        "sludge-bomb",
                         "giga-drain",
-                        "sleep-powder",
-                        "dream-eater"
+                        "wing-attack",
+                        "shadow-ball",
+                        "hypnosis"
                     ],
-                    "name": "venonat"
-                },
-                {
-                    "item": "berry",
-                    "level": 26,
-                    "moves": [
-                        "leech-life",
-                        "submission",
-                        "psychic",
-                        "giga-drain"
-                    ],
-                    "name": "ledian"
+                    "name": "yanma"
                 }
             ]
         },
@@ -43968,7 +43968,7 @@
             "team": [
                 {
                     "item": "berry",
-                    "level": 26,
+                    "level": 28,
                     "moves": [
                         "waterfall",
                         "thunderbolt",
@@ -43990,14 +43990,14 @@
                 },
                 {
                     "item": "berry",
-                    "level": 26,
+                    "level": 27,
                     "moves": [
                         "bubblebeam",
-                        "body-slam",
-                        "ice-punch",
-                        "rollout"
+                        "aurora-beam",
+                        "psybeam",
+                        "sludge"
                     ],
-                    "name": "azumarill"
+                    "name": "octillery"
                 }
             ]
         },
@@ -44007,11 +44007,11 @@
             "name": "cooltrainerf-jenn",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 26,
+                    "item": "charcoal",
+                    "level": 27,
                     "moves": [
                         "flame-wheel",
-                        "iron-tail",
+                        "megahorn",
                         "double-kick",
                         "quick-attack"
                     ],
@@ -44026,11 +44026,11 @@
                         "leech-seed",
                         "wing-attack"
                     ],
-                    "name": "skiploom"
+                    "name": "jumpluff"
                 },
                 {
                     "item": "berry-juice",
-                    "level": 27,
+                    "level": 28,
                     "moves": [
                         "thunderbolt",
                         "iron-tail",
@@ -44049,7 +44049,7 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 26,
+                    "level": 28,
                     "moves": [
                         "sludge-bomb",
                         "surf",
@@ -44059,7 +44059,7 @@
                     "name": "nidorina"
                 },
                 {
-                    "item": "berry",
+                    "item": "miracleberry",
                     "level": 27,
                     "moves": [
                         "dragonbreath",
@@ -44067,10 +44067,10 @@
                         "waterfall",
                         "thunder-wave"
                     ],
-                    "name": "dratini"
+                    "name": "dragonair"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "nevermeltice",
                     "level": 26,
                     "moves": [
                         "waterfall",
