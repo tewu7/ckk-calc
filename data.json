@@ -26494,7 +26494,7 @@
                 },
                 {
                     "level": 16,
-                    "move": "take-down"
+                    "move": "double-kick"
                 },
                 {
                     "level": 24,
@@ -29996,15 +29996,15 @@
                     "move": "psybeam"
                 },
                 {
-                    "level": 30,
+                    "level": 28,
                     "move": "egg-bomb"
                 },
                 {
-                    "level": 36,
+                    "level": 30,
                     "move": "razor-leaf"
                 },
                 {
-                    "level": 46,
+                    "level": 36,
                     "move": "sleep-powder"
                 },
                 {
@@ -38251,6 +38251,10 @@
                     "move": "body-slam"
                 },
                 {
+                    "level": 29,
+                    "move": "psychic"
+                },
+                {
                     "level": 31,
                     "move": "light-screen"
                 },
@@ -38259,11 +38263,7 @@
                     "move": "reflect"
                 },
                 {
-                    "level": 35,
-                    "move": "psychic"
-                },
-                {
-                    "level": 39,
+                    "level": 36,
                     "move": "earthquake"
                 },
                 {
@@ -43929,7 +43929,7 @@
             "team": [
                 {
                     "item": "scope-lens",
-                    "level": 28,
+                    "level": 29,
                     "moves": [
                         "ice-punch",
                         "thunderpunch",
@@ -43940,7 +43940,7 @@
                 },
                 {
                     "item": "scope-lens",
-                    "level": 29,
+                    "level": 27,
                     "moves": [
                         "giga-drain",
                         "sludge-bomb",
@@ -43951,7 +43951,7 @@
                 },
                 {
                     "item": "scope-lens",
-                    "level": 29,
+                    "level": 27,
                     "moves": [
                         "giga-drain",
                         "wing-attack",
@@ -44312,7 +44312,7 @@
             "team": [
                 {
                     "item": "pink-bow",
-                    "level": 24,
+                    "level": 27,
                     "moves": [
                         "selfdestruct",
                         "thunderbolt",
@@ -44322,7 +44322,7 @@
                 },
                 {
                     "item": "pink-bow",
-                    "level": 24,
+                    "level": 27,
                     "moves": [
                         "selfdestruct",
                         "waterfall",
@@ -44333,17 +44333,18 @@
                 },
                 {
                     "item": "pink-bow",
-                    "level": 24,
+                    "level": 26,
                     "moves": [
                         "selfdestruct",
-                        "sludge-bomb",
-                        "flamethrower"
+                        "earthquake",
+                        "rock-slide",
+                        "iron-tail"
                     ],
-                    "name": "grimer"
+                    "name": "onix"
                 },
                 {
                     "item": "pink-bow",
-                    "level": 24,
+                    "level": 26,
                     "moves": [
                         "selfdestruct",
                         "giga-drain",
@@ -44360,7 +44361,7 @@
             "name": "pokemaniac-issac",
             "team": [
                 {
-                    "item": "berry",
+                    "item": "berry-juice",
                     "level": 28,
                     "moves": [
                         "extremespeed",
@@ -44393,12 +44394,12 @@
                         "shadow-ball",
                         "ice-punch",
                         "psychic",
-                        "selfdestruct"
+                        "giga-drain"
                     ],
                     "name": "haunter"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "pink-bow",
                     "level": 27,
                     "moves": [
                         "selfdestruct"
@@ -44413,28 +44414,29 @@
             "team": [
                 {
                     "item": "poison-barb",
-                    "level": 27,
+                    "level": 28,
                     "moves": [
                         "sludge",
                         "giga-drain",
-                        "crunch"
+                        "crunch",
+                        "glare"
                     ],
                     "name": "arbok"
                 },
                 {
                     "item": "berry-juice",
-                    "level": 27,
+                    "level": 28,
                     "moves": [
                         "waterfall",
                         "ice-beam",
-                        "sing",
+                        "lovely-kiss",
                         "double-edge"
                     ],
                     "name": "azumarill"
                 },
                 {
                     "item": "berry-juice",
-                    "level": 27,
+                    "level": 29,
                     "moves": [
                         "dig",
                         "rock-slide",
@@ -44648,28 +44650,6 @@
             "name": "leader-whitney",
             "team": [
                 {
-                    "item": "berry-juice",
-                    "level": 29,
-                    "moves": [
-                        "earthquake",
-                        "thunderpunch",
-                        "toxic",
-                        "ice-punch"
-                    ],
-                    "name": "nidoqueen"
-                },
-                {
-                    "item": "gold-berry",
-                    "level": 31,
-                    "moves": [
-                        "attract",
-                        "thunder-wave",
-                        "seismic-toss",
-                        "softboiled"
-                    ],
-                    "name": "chansey"
-                },
-                {
                     "dvs": {
                         "atk": 12,
                         "def": 13,
@@ -44686,6 +44666,27 @@
                         "hp-flying"
                     ],
                     "name": "aipom"
+                },
+                {
+                    "item": "gold-berry",
+                    "level": 31,
+                    "moves": [
+                        "attract",
+                        "thunder-wave",
+                        "seismic-toss",
+                        "softboiled"
+                    ],
+                    "name": "chansey"
+                },
+                {
+                    "item": "thick-club",
+                    "level": 29,
+                    "moves": [
+                        "bone-club",
+                        "strength",
+                        "rock-smash"
+                    ],
+                    "name": "marowak"
                 },
                 {
                     "item": "miracleberry",
