@@ -44807,44 +44807,36 @@
             "name": "picnicker-brooke",
             "team": [
                 {
-                    "item": "pink-bow",
-                    "level": 33,
+                    "item": "stick",
+                    "level": 35,
                     "moves": [
                         "wing-attack",
                         "steel-wing",
-                        "razor-wind",
-                        "quick-attack"
+                        "submission",
+                        "slash"
                     ],
-                    "name": "pidgeotto"
+                    "name": "farfetchd"
                 },
                 {
                     "item": "miracleberry",
                     "level": 32,
                     "moves": [
                         "headbutt",
-                        "quick-attack",
-                        "double-kick"
+                        "rolling-kick",
+                        "rock-slide"
                     ],
                     "name": "aipom"
                 },
                 {
-                    "dvs": {
-                        "atk": 13,
-                        "def": 14,
-                        "hp": 11,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "berry-juice",
-                    "level": 33,
+                    "item": "quick-claw",
+                    "level": 34,
                     "moves": [
                         "giga-drain",
                         "sludge-bomb",
-                        "sleep-powder",
-                        "hp-ghost"
+                        "spore",
+                        "body-slam"
                     ],
-                    "name": "gloom"
+                    "name": "parasect"
                 }
             ]
         },
@@ -44854,7 +44846,7 @@
             "team": [
                 {
                     "item": "focus-band",
-                    "level": 32,
+                    "level": 35,
                     "moves": [
                         "flamethrower",
                         "rock-slide",
@@ -44864,7 +44856,7 @@
                     "name": "magcargo"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "focus-band",
                     "level": 32,
                     "moves": [
                         "double-edge",
@@ -44875,7 +44867,7 @@
                     "name": "dunsparce"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "focus-band",
                     "level": 32,
                     "moves": [
                         "giga-drain",
