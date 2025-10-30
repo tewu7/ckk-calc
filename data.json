@@ -2101,12 +2101,12 @@
                             {
                                 "chance": 30,
                                 "level": 9,
-                                "pokemon": "meowth"
+                                "pokemon": "aipom"
                             },
                             {
                                 "chance": 30,
                                 "level": 9,
-                                "pokemon": "smoochum"
+                                "pokemon": "girafarig"
                             },
                             {
                                 "chance": 20,
@@ -2148,7 +2148,7 @@
                             {
                                 "chance": 20,
                                 "level": 9,
-                                "pokemon": "cubone"
+                                "pokemon": "phanpy"
                             },
                             {
                                 "chance": 10,
