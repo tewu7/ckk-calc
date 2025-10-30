@@ -22967,7 +22967,7 @@
                     "move": "sludge-bomb"
                 },
                 {
-                    "level": 33,
+                    "level": 31,
                     "move": "toxic"
                 },
                 {
@@ -44333,7 +44333,7 @@
                 },
                 {
                     "item": "pink-bow",
-                    "level": 26,
+                    "level": 27,
                     "moves": [
                         "selfdestruct",
                         "earthquake",
