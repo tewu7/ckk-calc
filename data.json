@@ -44731,29 +44731,30 @@
                     "item": "berry-juice",
                     "level": 33,
                     "moves": [
-                        "waterfall",
-                        "ice-beam",
-                        "lovely-kiss",
-                        "submission"
+                        "surf",
+                        "aurora-beam",
+                        "spikes",
+                        "clamp"
                     ],
-                    "name": "poliwhirl"
+                    "name": "cloyster"
                 },
                 {
-                    "item": "pink-bow",
-                    "level": 32,
+                    "item": "focus-band",
+                    "level": 33,
                     "moves": [
                         "rock-slide",
                         "earthquake",
-                        "body-slam"
+                        "body-slam",
+                        "rock-smash"
                     ],
                     "name": "graveler"
                 },
                 {
                     "item": "berry-juice",
-                    "level": 31,
+                    "level": 33,
                     "moves": [
                         "psybeam",
-                        "seismic-toss",
+                        "thunderpunch",
                         "shadow-ball",
                         "fire-punch"
                     ],
@@ -44767,38 +44768,30 @@
             "name": "picnicker-kim",
             "team": [
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "twistedspoon",
-                    "level": 32,
+                    "item": "scope-lens",
+                    "level": 33,
                     "moves": [
-                        "psychic",
-                        "giga-drain",
-                        "sleep-powder",
-                        "hp-fire"
+                        "wing-attack",
+                        "submission",
+                        "steel-wing",
+                        "quick-attack"
                     ],
-                    "name": "butterfree"
+                    "name": "scyther"
                 },
                 {
-                    "item": "poison-barb",
+                    "item": "scope-lens",
                     "level": 32,
                     "moves": [
                         "sludge-bomb",
-                        "mega-punch",
+                        "psychic",
                         "giga-drain",
-                        "return"
+                        "agility"
                     ],
-                    "name": "beedrill"
+                    "name": "ariados"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 31,
+                    "item": "scope-lens",
+                    "level": 34,
                     "moves": [
                         "dig",
                         "rock-slide",
