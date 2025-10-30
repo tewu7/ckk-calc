@@ -39144,10 +39144,6 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "sandstorm"
-                },
-                {
-                    "level": 1,
                     "move": "wrap"
                 },
                 {
@@ -39156,7 +39152,7 @@
                 },
                 {
                     "level": 1,
-                    "move": "bide"
+                    "move": "rock-smash"
                 },
                 {
                     "level": 30,
@@ -44885,17 +44881,17 @@
             "team": [
                 {
                     "item": "nevermeltice",
-                    "level": 33,
+                    "level": 35,
                     "moves": [
                         "waterfall",
                         "ice-beam",
-                        "body-slam"
+                        "double-edge"
                     ],
                     "name": "croconaw"
                 },
                 {
                     "item": "berry-juice",
-                    "level": 33,
+                    "level": 34,
                     "moves": [
                         "flamethrower",
                         "thunderpunch",
@@ -44906,7 +44902,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 33,
+                    "level": 35,
                     "moves": [
                         "giga-drain",
                         "synthesis",
@@ -44924,7 +44920,7 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 33,
+                    "level": 34,
                     "moves": [
                         "wing-attack",
                         "tri-attack",
@@ -44935,7 +44931,7 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 32,
+                    "level": 33,
                     "moves": [
                         "wing-attack",
                         "faint-attack",
@@ -44946,10 +44942,10 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 33,
+                    "level": 35,
                     "moves": [
                         "razor-wind",
-                        "return",
+                        "fly",
                         "steel-wing",
                         "quick-attack"
                     ],
@@ -44971,7 +44967,7 @@
                     "name": "weedle"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "pink-bow",
                     "level": 80,
                     "moves": [
                         "tackle",
@@ -44988,7 +44984,7 @@
             "team": [
                 {
                     "item": "miracleberry",
-                    "level": 33,
+                    "level": 34,
                     "moves": [
                         "headbutt",
                         "earthquake",
@@ -44998,8 +44994,8 @@
                     "name": "granbull"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 33,
+                    "item": "charcoal",
+                    "level": 34,
                     "moves": [
                         "flamethrower",
                         "crunch",
@@ -45010,7 +45006,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 33,
+                    "level": 34,
                     "moves": [
                         "submission",
                         "rock-slide",
@@ -45027,35 +45023,36 @@
             "team": [
                 {
                     "item": "hard-stone",
-                    "level": 30,
+                    "level": 35,
                     "moves": [
                         "selfdestruct",
                         "thunderbolt",
-                        "rollout"
+                        "rollout",
+                        "defense-curl"
                     ],
                     "name": "electrode"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 32,
+                    "item": "leftovers",
+                    "level": 35,
                     "moves": [
                         "giga-drain",
                         "sludge-bomb",
-                        "sleep-powder",
-                        "body-slam"
+                        "leech-seed",
+                        "protect"
                     ],
-                    "name": "ivysaur"
+                    "name": "vileplume"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 32,
+                    "level": 34,
                     "moves": [
-                        "flamethrower",
+                        "dig",
                         "rock-slide",
-                        "body-slam",
-                        "earthquake"
+                        "wing-attack",
+                        "screech"
                     ],
-                    "name": "magcargo"
+                    "name": "gligar"
                 }
             ]
         },
