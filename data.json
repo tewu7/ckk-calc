@@ -9650,32 +9650,69 @@
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "granbull"
+                                "pokemon": "girafarig"
                             },
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "ledyba"
+                                "pokemon": "pineco"
                             },
                             {
                                 "chance": 20,
                                 "level": 29,
-                                "pokemon": "flaaffy"
+                                "pokemon": "donphan"
                             },
                             {
                                 "chance": 10,
                                 "level": 29,
-                                "pokemon": "pidgeotto"
+                                "pokemon": "sandslash"
                             },
                             {
                                 "chance": 5,
                                 "level": 29,
-                                "pokemon": "ponyta"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 4,
                                 "level": 29,
-                                "pokemon": "beedrill"
+                                "pokemon": "marowak"
+                            },
+                            {
+                                "chance": 1,
+                                "level": 29,
+                                "pokemon": "hitmonchan"
+                            }
+                        ],
+                        "morning": [
+                            {
+                                "chance": 30,
+                                "level": 29,
+                                "pokemon": "nidorina"
+                            },
+                            {
+                                "chance": 30,
+                                "level": 29,
+                                "pokemon": "granbull"
+                            },
+                            {
+                                "chance": 20,
+                                "level": 29,
+                                "pokemon": "exeggcute"
+                            },
+                            {
+                                "chance": 10,
+                                "level": 29,
+                                "pokemon": "slugma"
+                            },
+                            {
+                                "chance": 5,
+                                "level": 29,
+                                "pokemon": "pineco"
+                            },
+                            {
+                                "chance": 4,
+                                "level": 29,
+                                "pokemon": "sandslash"
                             },
                             {
                                 "chance": 1,
@@ -9683,78 +9720,41 @@
                                 "pokemon": "hitmonlee"
                             }
                         ],
-                        "morning": [
-                            {
-                                "chance": 30,
-                                "level": 29,
-                                "pokemon": "persian"
-                            },
-                            {
-                                "chance": 30,
-                                "level": 29,
-                                "pokemon": "fearow"
-                            },
-                            {
-                                "chance": 20,
-                                "level": 29,
-                                "pokemon": "butterfree"
-                            },
-                            {
-                                "chance": 10,
-                                "level": 29,
-                                "pokemon": "pikachu"
-                            },
-                            {
-                                "chance": 5,
-                                "level": 29,
-                                "pokemon": "jumpluff"
-                            },
-                            {
-                                "chance": 4,
-                                "level": 29,
-                                "pokemon": "diglett"
-                            },
-                            {
-                                "chance": 1,
-                                "level": 29,
-                                "pokemon": "doduo"
-                            }
-                        ],
                         "night": [
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "raticate"
+                                "pokemon": "ursaring"
                             },
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "ariados"
+                                "pokemon": "nidorino"
                             },
                             {
                                 "chance": 20,
                                 "level": 29,
-                                "pokemon": "yanma"
+                                "pokemon": "donphan"
                             },
                             {
                                 "chance": 10,
                                 "level": 29,
-                                "pokemon": "gloom"
+                                "pokemon": "exeggcute"
                             },
                             {
                                 "chance": 5,
                                 "level": 29,
-                                "pokemon": "golbat"
+                                "pokemon": "pineco"
                             },
                             {
                                 "chance": 4,
                                 "level": 29,
-                                "pokemon": "pikachu"
+                                "pokemon": "marowak"
                             },
                             {
                                 "chance": 1,
                                 "level": 29,
-                                "pokemon": "noctowl"
+                                "pokemon": "hitmontop"
                             }
                         ]
                     },
@@ -23932,6 +23932,10 @@
                 {
                     "level": 1,
                     "move": "slash"
+                },
+                {
+                    "level": 1,
+                    "move": "dig"
                 },
                 {
                     "level": 33,
