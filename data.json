@@ -45100,30 +45100,30 @@
             "name": "schoolboy-jack",
             "team": [
                 {
-                    "item": "berry-juice",
-                    "level": 32,
+                    "item": "mystic-water",
+                    "level": 34,
                     "moves": [
                         "sludge-bomb",
                         "waterfall",
-                        "selfdestruct",
-                        "faint-attack"
+                        "destiny-bond",
+                        "spikes"
                     ],
                     "name": "qwilfish"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "quick-claw",
                     "level": 34,
                     "moves": [
-                        "mega-drain",
-                        "synthesis",
-                        "sleep-powder",
-                        "body-slam"
+                        "giga-drain",
+                        "sacred-fire",
+                        "spore",
+                        "sunny-day"
                     ],
-                    "name": "tangela"
+                    "name": "sunflora"
                 },
                 {
                     "item": "charcoal",
-                    "level": 33,
+                    "level": 35,
                     "moves": [
                         "flamethrower",
                         "take-down",
@@ -45140,25 +45140,14 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
-                        "wing-attack",
+                        "drill-peck",
                         "tri-attack",
                         "steel-wing",
                         "quick-attack"
                     ],
                     "name": "fearow"
-                },
-                {
-                    "item": "soft-sand",
-                    "level": 34,
-                    "moves": [
-                        "dig",
-                        "rock-slide",
-                        "slash",
-                        "reversal"
-                    ],
-                    "name": "sandslash"
                 },
                 {
                     "item": "berserk-gene",
@@ -45170,6 +45159,17 @@
                         "mach-punch"
                     ],
                     "name": "primeape"
+                },
+                {
+                    "item": "soft-sand",
+                    "level": 35,
+                    "moves": [
+                        "dig",
+                        "rock-slide",
+                        "slash",
+                        "reversal"
+                    ],
+                    "name": "sandslash"
                 }
             ]
         },
@@ -45179,12 +45179,12 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
                         "thunderbolt",
                         "surf",
                         "sweet-kiss",
-                        "quick-attack"
+                        "petal-dance"
                     ],
                     "name": "raichu"
                 },
@@ -45195,13 +45195,13 @@
                         "giga-drain",
                         "wing-attack",
                         "sleep-powder",
-                        "seismic-toss"
+                        "stun-spore"
                     ],
                     "name": "jumpluff"
                 },
                 {
                     "item": "pink-bow",
-                    "level": 31,
+                    "level": 34,
                     "moves": [
                         "rock-slide",
                         "earthquake",
@@ -45211,12 +45211,13 @@
                     "name": "graveler"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 33,
+                    "item": "pink-bow",
+                    "level": 34,
                     "moves": [
                         "crabhammer",
                         "metal-claw",
-                        "body-slam"
+                        "body-slam",
+                        "submission"
                     ],
                     "name": "kingler"
                 }
