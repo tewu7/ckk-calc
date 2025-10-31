@@ -45405,23 +45405,14 @@
             "name": "rival1-7",
             "team": [
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 15,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "brightpowder",
+                    "level": 34,
                     "moves": [
-                        "flamethrower",
-                        "morning-sun",
-                        "extremespeed",
-                        "hp-electric"
+                        "octazooka",
+                        "ice-beam",
+                        "flamethrower"
                     ],
-                    "name": "arcanine"
+                    "name": "octillery"
                 },
                 {
                     "item": "miracleberry",
@@ -45464,14 +45455,23 @@
                     "name": "hitmonchan"
                 },
                 {
-                    "item": "brightpowder",
+                    "dvs": {
+                        "atk": 14,
+                        "def": 15,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "miracleberry",
                     "level": 34,
                     "moves": [
-                        "octazooka",
-                        "ice-beam",
-                        "flamethrower"
+                        "flamethrower",
+                        "morning-sun",
+                        "extremespeed",
+                        "hp-electric"
                     ],
-                    "name": "octillery"
+                    "name": "arcanine"
                 },
                 {
                     "item": "leftovers",
@@ -45491,14 +45491,14 @@
             "name": "rival1-8",
             "team": [
                 {
-                    "item": "brightpowder",
+                    "item": "berry-juice",
                     "level": 34,
                     "moves": [
-                        "octazooka",
-                        "ice-beam",
-                        "flamethrower"
+                        "petal-dance",
+                        "sludge-bomb",
+                        "lovely-kiss"
                     ],
-                    "name": "octillery"
+                    "name": "victreebel"
                 },
                 {
                     "item": "miracleberry",
@@ -45541,14 +45541,14 @@
                     "name": "hitmonlee"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "brightpowder",
                     "level": 34,
                     "moves": [
-                        "petal-dance",
-                        "sludge-bomb",
-                        "lovely-kiss"
+                        "octazooka",
+                        "ice-beam",
+                        "flamethrower"
                     ],
-                    "name": "victreebel"
+                    "name": "octillery"
                 },
                 {
                     "item": "berry-juice",
@@ -45568,14 +45568,23 @@
             "name": "rival1-9",
             "team": [
                 {
-                    "item": "berry-juice",
+                    "dvs": {
+                        "atk": 14,
+                        "def": 15,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "miracleberry",
                     "level": 34,
                     "moves": [
-                        "petal-dance",
-                        "sludge-bomb",
-                        "lovely-kiss"
+                        "flamethrower",
+                        "morning-sun",
+                        "extremespeed",
+                        "hp-electric"
                     ],
-                    "name": "victreebel"
+                    "name": "arcanine"
                 },
                 {
                     "item": "miracleberry",
@@ -45618,23 +45627,14 @@
                     "name": "hitmontop"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 15,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
+                    "item": "berry-juice",
                     "level": 34,
                     "moves": [
-                        "flamethrower",
-                        "morning-sun",
-                        "extremespeed",
-                        "hp-electric"
+                        "petal-dance",
+                        "sludge-bomb",
+                        "lovely-kiss"
                     ],
-                    "name": "arcanine"
+                    "name": "victreebel"
                 },
                 {
                     "item": "berry-juice",
@@ -45663,7 +45663,7 @@
                         "spe": 15
                     },
                     "item": "focus-band",
-                    "level": 38,
+                    "level": 37,
                     "moves": [
                         "psychic",
                         "hp-fighting",
@@ -45684,7 +45684,7 @@
                 },
                 {
                     "item": "leftovers",
-                    "level": 35,
+                    "level": 37,
                     "moves": [
                         "recover",
                         "waterfall",
@@ -45694,15 +45694,15 @@
                     "name": "corsola"
                 },
                 {
-                    "item": "focus-band",
-                    "level": 35,
+                    "item": "gold-berry",
+                    "level": 37,
                     "moves": [
                         "confuse-ray",
                         "sludge-bomb",
                         "giga-drain",
                         "shadow-ball"
                     ],
-                    "name": "golbat"
+                    "name": "crobat"
                 },
                 {
                     "item": "magnet",
@@ -45801,36 +45801,37 @@
             "name": "sage-jeffrey",
             "team": [
                 {
+                    "item": "quick-claw",
+                    "level": 36,
+                    "moves": [
+                        "rock-slide",
+                        "earthquake",
+                        "spikes",
+                        "light-screen"
+                    ],
+                    "name": "forretress"
+                },
+                {
                     "item": "focus-band",
                     "level": 36,
                     "moves": [
                         "steel-wing",
-                        "sky-attack",
-                        "spikes"
+                        "drill-peck",
+                        "whirlwind",
+                        "agility"
                     ],
                     "name": "skarmory"
                 },
                 {
-                    "item": "focus-band",
+                    "item": "brightpowder",
                     "level": 36,
                     "moves": [
-                        "confuse-ray",
+                        "whirlpool",
                         "waterfall",
-                        "toxic",
+                        "confuse-ray",
                         "ice-beam"
                     ],
                     "name": "mantine"
-                },
-                {
-                    "item": "leftovers",
-                    "level": 36,
-                    "moves": [
-                        "softboiled",
-                        "ice-beam",
-                        "toxic",
-                        "psywave"
-                    ],
-                    "name": "chansey"
                 }
             ]
         },
@@ -45839,15 +45840,15 @@
             "name": "leader-morty",
             "team": [
                 {
-                    "item": "gold-berry",
+                    "item": "miracleberry",
                     "level": 37,
                     "moves": [
-                        "confuse-ray",
-                        "sludge-bomb",
                         "shadow-ball",
+                        "sludge-bomb",
+                        "flamethrower",
                         "giga-drain"
                     ],
-                    "name": "crobat"
+                    "name": "muk"
                 },
                 {
                     "item": "brightpowder",
@@ -45886,12 +45887,12 @@
                     "item": "miracleberry",
                     "level": 37,
                     "moves": [
-                        "confuse-ray",
-                        "moonlight",
-                        "body-slam",
-                        "psychic"
+                        "rock-throw",
+                        "bite",
+                        "hyper-beam",
+                        "scary-face"
                     ],
-                    "name": "umbreon"
+                    "name": "tyranitar"
                 },
                 {
                     "item": "miracleberry",
