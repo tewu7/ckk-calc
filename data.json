@@ -45062,7 +45062,7 @@
             "team": [
                 {
                     "item": "miracleberry",
-                    "level": 33,
+                    "level": 35,
                     "moves": [
                         "petal-dance",
                         "sludge-bomb",
@@ -45072,25 +45072,26 @@
                     "name": "bellossom"
                 },
                 {
-                    "item": "thick-club",
-                    "level": 31,
-                    "moves": [
-                        "bone-club",
-                        "rock-slide",
-                        "body-slam"
-                    ],
-                    "name": "marowak"
-                },
-                {
-                    "item": "nevermeltice",
+                    "item": "berry-juice",
                     "level": 34,
                     "moves": [
-                        "hydro-pump",
-                        "ice-beam",
-                        "attract",
-                        "double-edge"
+                        "sludge",
+                        "psychic",
+                        "screech",
+                        "pain-split"
                     ],
-                    "name": "azumarill"
+                    "name": "weezing"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 35,
+                    "moves": [
+                        "hyper-beam",
+                        "ice-beam",
+                        "flamethrower",
+                        "thunderbolt"
+                    ],
+                    "name": "gyarados"
                 }
             ]
         },
