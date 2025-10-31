@@ -45312,7 +45312,7 @@
                         "earthquake",
                         "extremespeed",
                         "ancientpower",
-                        "cross-chop"
+                        "megahorn"
                     ],
                     "name": "smeargle"
                 },
@@ -45344,7 +45344,7 @@
                     "moves": [
                         "metal-claw",
                         "extremespeed",
-                        "megahorn",
+                        "cross-chop",
                         "aeroblast"
                     ],
                     "name": "smeargle"
@@ -45640,106 +45640,6 @@
             ]
         },
         {
-            "area": "Ecruteak City",
-            "name": "kimono-girl-naoko",
-            "team": [
-                {
-                    "dvs": {
-                        "atk": 15,
-                        "def": 13,
-                        "hp": 15,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
-                    "level": 35,
-                    "moves": [
-                        "thunderbolt",
-                        "hp-ice",
-                        "bite"
-                    ],
-                    "name": "jolteon"
-                }
-            ]
-        },
-        {
-            "area": "Ecruteak City",
-            "name": "kimono-girl-sayo",
-            "team": [
-                {
-                    "item": "miracleberry",
-                    "level": 35,
-                    "moves": [
-                        "faint-attack",
-                        "moonlight",
-                        "toxic",
-                        "psychic"
-                    ],
-                    "name": "umbreon"
-                }
-            ]
-        },
-        {
-            "area": "Ecruteak City",
-            "name": "kimono-girl-zuki",
-            "team": [
-                {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
-                    "level": 35,
-                    "moves": [
-                        "psychic",
-                        "hp-fire",
-                        "sing",
-                        "shadow-ball"
-                    ],
-                    "name": "espeon"
-                }
-            ]
-        },
-        {
-            "area": "Ecruteak City",
-            "name": "kimono-girl-kuni",
-            "team": [
-                {
-                    "item": "miracleberry",
-                    "level": 35,
-                    "moves": [
-                        "flamethrower",
-                        "double-edge",
-                        "iron-tail",
-                        "shadow-ball"
-                    ],
-                    "name": "flareon"
-                }
-            ]
-        },
-        {
-            "area": "Ecruteak City",
-            "name": "kimono-girl-miki",
-            "team": [
-                {
-                    "item": "miracleberry",
-                    "level": 35,
-                    "moves": [
-                        "waterfall",
-                        "ice-beam",
-                        "toxic",
-                        "recover"
-                    ],
-                    "name": "vaporeon"
-                }
-            ]
-        },
-        {
             "area": "Ecruteak City Gym",
             "name": "sage-ping",
             "team": [
@@ -45993,6 +45893,106 @@
                         "fire-punch"
                     ],
                     "name": "gengar"
+                }
+            ]
+        },
+        {
+            "area": "Ecruteak City",
+            "name": "kimono-girl-naoko",
+            "team": [
+                {
+                    "dvs": {
+                        "atk": 15,
+                        "def": 13,
+                        "hp": 15,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "miracleberry",
+                    "level": 35,
+                    "moves": [
+                        "thunderbolt",
+                        "hp-ice",
+                        "bite"
+                    ],
+                    "name": "jolteon"
+                }
+            ]
+        },
+        {
+            "area": "Ecruteak City",
+            "name": "kimono-girl-sayo",
+            "team": [
+                {
+                    "item": "miracleberry",
+                    "level": 35,
+                    "moves": [
+                        "faint-attack",
+                        "moonlight",
+                        "toxic",
+                        "psychic"
+                    ],
+                    "name": "umbreon"
+                }
+            ]
+        },
+        {
+            "area": "Ecruteak City",
+            "name": "kimono-girl-zuki",
+            "team": [
+                {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 12,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "miracleberry",
+                    "level": 35,
+                    "moves": [
+                        "psychic",
+                        "hp-fire",
+                        "sing",
+                        "shadow-ball"
+                    ],
+                    "name": "espeon"
+                }
+            ]
+        },
+        {
+            "area": "Ecruteak City",
+            "name": "kimono-girl-kuni",
+            "team": [
+                {
+                    "item": "miracleberry",
+                    "level": 35,
+                    "moves": [
+                        "flamethrower",
+                        "double-edge",
+                        "iron-tail",
+                        "shadow-ball"
+                    ],
+                    "name": "flareon"
+                }
+            ]
+        },
+        {
+            "area": "Ecruteak City",
+            "name": "kimono-girl-miki",
+            "team": [
+                {
+                    "item": "miracleberry",
+                    "level": 35,
+                    "moves": [
+                        "waterfall",
+                        "ice-beam",
+                        "toxic",
+                        "recover"
+                    ],
+                    "name": "vaporeon"
                 }
             ]
         },
