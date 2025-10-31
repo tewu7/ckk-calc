@@ -45200,15 +45200,15 @@
                     "name": "jumpluff"
                 },
                 {
-                    "item": "pink-bow",
-                    "level": 34,
+                    "item": "quick-claw",
+                    "level": 35,
                     "moves": [
-                        "rock-slide",
-                        "earthquake",
-                        "body-slam",
-                        "selfdestruct"
+                        "surf",
+                        "flamethrower",
+                        "ice-beam",
+                        "thunderbolt"
                     ],
-                    "name": "graveler"
+                    "name": "rhydon"
                 },
                 {
                     "item": "pink-bow",
