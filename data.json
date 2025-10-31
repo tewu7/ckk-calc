@@ -45229,11 +45229,12 @@
             "team": [
                 {
                     "item": "berry-juice",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
                         "sludge-bomb",
                         "giga-drain",
-                        "crunch"
+                        "crunch",
+                        "glare"
                     ],
                     "name": "arbok"
                 },
@@ -45244,17 +45245,17 @@
                         "rock-slide",
                         "low-kick",
                         "ice-punch",
-                        "double-edge"
+                        "selfdestruct"
                     ],
                     "name": "sudowoodo"
                 },
                 {
-                    "item": "berry-juice",
-                    "level": 34,
+                    "item": "blackbelt",
+                    "level": 35,
                     "moves": [
                         "submission",
                         "rock-slide",
-                        "thunderpunch",
+                        "ice-punch",
                         "mach-punch"
                     ],
                     "name": "hitmonchan"
@@ -45278,7 +45279,7 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
                         "psychic",
                         "earthquake",
@@ -45289,10 +45290,10 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
                         "dream-eater",
-                        "fire-punch",
+                        "thunderpunch",
                         "lovely-kiss",
                         "ice-punch"
                     ],
@@ -45305,24 +45306,46 @@
             "name": "twins-ann-&-anne",
             "team": [
                 {
-                    "item": "berry-juice",
+                    "item": "scope-lens",
                     "level": 34,
                     "moves": [
-                        "aeroblast",
+                        "earthquake",
                         "extremespeed",
                         "ancientpower",
+                        "cross-chop"
+                    ],
+                    "name": "smeargle"
+                },
+                {
+                    "item": "scope-lens",
+                    "level": 34,
+                    "moves": [
+                        "petal-dance",
+                        "extremespeed",
+                        "psychic",
+                        "crabhammer"
+                    ],
+                    "name": "smeargle"
+                },
+                {
+                    "item": "scope-lens",
+                    "level": 34,
+                    "moves": [
+                        "flamethrower",
+                        "extremespeed",
+                        "ice-beam",
                         "thunderbolt"
                     ],
                     "name": "smeargle"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "scope-lens",
                     "level": 34,
                     "moves": [
-                        "sacred-fire",
-                        "extremespeed",
                         "metal-claw",
-                        "thunderbolt"
+                        "extremespeed",
+                        "megahorn",
+                        "aeroblast"
                     ],
                     "name": "smeargle"
                 }
@@ -45346,6 +45369,17 @@
                     "item": "berry-juice",
                     "level": 34,
                     "moves": [
+                        "psybeam",
+                        "razor-leaf",
+                        "sleep-powder",
+                        "egg-bomb"
+                    ],
+                    "name": "exeggutor"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 35,
+                    "moves": [
                         "dream-eater",
                         "sludge-bomb",
                         "sleep-powder",
@@ -45355,9 +45389,9 @@
                 },
                 {
                     "item": "berry-juice",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
-                        "shadow-ball",
+                        "fire-punch",
                         "submission",
                         "thunder-wave",
                         "psybeam"
