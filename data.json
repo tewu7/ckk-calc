@@ -45418,21 +45418,21 @@
                     "moves": [
                         "flamethrower",
                         "morning-sun",
-                        "body-slam",
+                        "extremespeed",
                         "hp-electric"
                     ],
                     "name": "arcanine"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 38,
+                    "level": 35,
                     "moves": [
-                        "dragon-rage",
-                        "waterfall",
-                        "thunder-wave",
-                        "body-slam"
+                        "ice-beam",
+                        "crunch",
+                        "shadow-ball",
+                        "metal-claw"
                     ],
-                    "name": "dragonair"
+                    "name": "sneasel"
                 },
                 {
                     "dvs": {
@@ -45448,7 +45448,7 @@
                     "moves": [
                         "metal-claw",
                         "hp-bug",
-                        "reversal"
+                        "submission"
                     ],
                     "name": "scizor"
                 },
@@ -45464,7 +45464,7 @@
                     "name": "hitmonchan"
                 },
                 {
-                    "item": "berry-juice",
+                    "item": "brightpowder",
                     "level": 34,
                     "moves": [
                         "octazooka",
@@ -45491,17 +45491,6 @@
             "name": "rival1-8",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 38,
-                    "moves": [
-                        "dragon-rage",
-                        "waterfall",
-                        "thunder-wave",
-                        "body-slam"
-                    ],
-                    "name": "dragonair"
-                },
-                {
                     "item": "brightpowder",
                     "level": 34,
                     "moves": [
@@ -45510,6 +45499,17 @@
                         "flamethrower"
                     ],
                     "name": "octillery"
+                },
+                {
+                    "item": "miracleberry",
+                    "level": 35,
+                    "moves": [
+                        "ice-beam",
+                        "crunch",
+                        "shadow-ball",
+                        "metal-claw"
+                    ],
+                    "name": "sneasel"
                 },
                 {
                     "dvs": {
@@ -45525,7 +45525,7 @@
                     "moves": [
                         "metal-claw",
                         "hp-bug",
-                        "reversal"
+                        "submission"
                     ],
                     "name": "scizor"
                 },
@@ -45579,13 +45579,14 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 34,
+                    "level": 35,
                     "moves": [
-                        "earthquake",
-                        "rock-slide",
-                        "tri-attack"
+                        "ice-beam",
+                        "crunch",
+                        "shadow-ball",
+                        "metal-claw"
                     ],
-                    "name": "dugtrio"
+                    "name": "sneasel"
                 },
                 {
                     "dvs": {
@@ -45601,7 +45602,7 @@
                     "moves": [
                         "metal-claw",
                         "hp-bug",
-                        "reversal"
+                        "submission"
                     ],
                     "name": "scizor"
                 },
@@ -45617,15 +45618,23 @@
                     "name": "hitmontop"
                 },
                 {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 15,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
                     "item": "miracleberry",
-                    "level": 38,
+                    "level": 35,
                     "moves": [
-                        "dragon-rage",
-                        "waterfall",
-                        "thunder-wave",
-                        "body-slam"
+                        "flamethrower",
+                        "morning-sun",
+                        "extremespeed",
+                        "hp-electric"
                     ],
-                    "name": "dragonair"
+                    "name": "arcanine"
                 },
                 {
                     "item": "berry-juice",
@@ -45633,7 +45642,8 @@
                     "moves": [
                         "waterfall",
                         "ice-beam",
-                        "double-edge"
+                        "double-edge",
+                        "icy-wind"
                     ],
                     "name": "feraligatr"
                 }
