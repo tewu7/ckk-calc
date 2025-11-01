@@ -45423,15 +45423,15 @@
                     "name": "octillery"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "gold-berry",
+                    "level": 37,
                     "moves": [
-                        "ice-beam",
-                        "crunch",
-                        "shadow-ball",
-                        "metal-claw"
+                        "outrage",
+                        "waterfall",
+                        "thunder-wave",
+                        "flamethrower"
                     ],
-                    "name": "sneasel"
+                    "name": "dragonair"
                 },
                 {
                     "dvs": {
@@ -45509,15 +45509,15 @@
                     "name": "victreebel"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "gold-berry",
+                    "level": 37,
                     "moves": [
-                        "ice-beam",
-                        "crunch",
-                        "shadow-ball",
-                        "metal-claw"
+                        "outrage",
+                        "waterfall",
+                        "thunder-wave",
+                        "flamethrower"
                     ],
-                    "name": "sneasel"
+                    "name": "dragonair"
                 },
                 {
                     "dvs": {
@@ -45595,15 +45595,15 @@
                     "name": "arcanine"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "gold-berry",
+                    "level": 37,
                     "moves": [
-                        "ice-beam",
-                        "crunch",
-                        "shadow-ball",
-                        "metal-claw"
+                        "outrage",
+                        "waterfall",
+                        "thunder-wave",
+                        "flamethrower"
                     ],
-                    "name": "sneasel"
+                    "name": "dragonair"
                 },
                 {
                     "dvs": {
