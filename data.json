@@ -46167,35 +46167,58 @@
             ]
         },
         {
-            "area": "Route 38 (gauntlet)",
+            "area": "Route 38",
+            "meta": "start of perma sun",
             "name": "sailor-harry",
             "team": [
                 {
-                    "item": "berserk-gene",
-                    "level": 38,
+                    "item": "leftovers",
+                    "level": 44,
                     "moves": [
-                        "submission",
-                        "rock-slide",
                         "earthquake",
-                        "body-slam"
+                        "wrap",
+                        "toxic",
+                        "protect"
                     ],
-                    "name": "machoke"
+                    "name": "shuckle"
                 },
                 {
-                    "item": "leftovers",
-                    "level": 38,
+                    "item": "gold-berry",
+                    "level": 40,
                     "moves": [
-                        "submission",
-                        "waterfall",
-                        "earthquake",
-                        "ice-beam"
+                        "ancientpower",
+                        "ice-beam",
+                        "spikes",
+                        "icy-wind"
                     ],
-                    "name": "poliwrath"
+                    "name": "omastar"
+                },
+                {
+                    "item": "poison-barb",
+                    "level": 39,
+                    "moves": [
+                        "sludge-bomb",
+                        "fire-blast",
+                        "pain-split",
+                        "explosion"
+                    ],
+                    "name": "weezing"
+                },
+                {
+                    "item": "scope-lens",
+                    "level": 41,
+                    "moves": [
+                        "solarbeam",
+                        "sacred-fire",
+                        "spore",
+                        "leech-seed"
+                    ],
+                    "name": "sunflora"
                 }
             ]
         },
         {
-            "area": "Route 38 (gauntlet)",
+            "area": "Route 38",
             "name": "beauty-olivia",
             "team": [
                 {
@@ -46223,7 +46246,7 @@
             ]
         },
         {
-            "area": "Route 38 (gauntlet)",
+            "area": "Route 38",
             "name": "lass-dana",
             "team": [
                 {
@@ -46272,7 +46295,7 @@
             ]
         },
         {
-            "area": "Route 38 (gauntlet)",
+            "area": "Route 38",
             "name": "beauty-valerie",
             "team": [
                 {
@@ -46329,8 +46352,7 @@
             ]
         },
         {
-            "area": "Route 38 (gauntlet)",
-            "meta": "you can leave after this fight one time",
+            "area": "Route 38",
             "name": "bird-keeper-toby",
             "team": [
                 {
@@ -46376,7 +46398,7 @@
             ]
         },
         {
-            "area": "Route 38 (gauntlet)",
+            "area": "Route 38",
             "name": "schoolboy-chad",
             "team": [
                 {
