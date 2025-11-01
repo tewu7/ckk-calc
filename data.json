@@ -31563,7 +31563,7 @@
                 },
                 {
                     "level": 14,
-                    "move": "tri-attack"
+                    "move": "aurora-beam"
                 },
                 {
                     "level": 23,
@@ -45921,6 +45921,36 @@
             "team": [
                 {
                     "dvs": {
+                        "atk": 14,
+                        "def": 13,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "magnet",
+                    "level": 40,
+                    "moves": [
+                        "thunderbolt",
+                        "hp-water",
+                        "thunder-wave",
+                        "recover"
+                    ],
+                    "name": "magneton"
+                },
+                {
+                    "item": "magnet",
+                    "level": 40,
+                    "moves": [
+                        "thunderbolt",
+                        "ice-punch",
+                        "fire-punch",
+                        "psychic"
+                    ],
+                    "name": "electabuzz"
+                },
+                {
+                    "dvs": {
                         "atk": 15,
                         "def": 13,
                         "hp": 15,
@@ -45928,12 +45958,13 @@
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "magnet",
+                    "level": 40,
                     "moves": [
                         "thunderbolt",
                         "hp-ice",
-                        "bite"
+                        "bite",
+                        "thunder-wave"
                     ],
                     "name": "jolteon"
                 }
