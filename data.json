@@ -17493,13 +17493,18 @@
             "items": [
                 {
                     "amount": "1",
-                    "info": "obtained by talking to old man after beating all kimono girls",
+                    "info": "Obtained by talking to old man after beating all kimono girls",
                     "item": "hm-03"
                 },
                 {
                     "amount": "1",
-                    "info": "obtained after defeating Morty",
+                    "info": "Obtained after defeating Morty",
                     "item": "tm-30"
+                },
+                {
+                    "amount": "1",
+                    "info": "Obtained after defeating Morty and talking to the fisherman near the pond",
+                    "item": "good-rod"
                 }
             ],
             "locations": [
@@ -17599,11 +17604,6 @@
         {
             "id": 27,
             "items": [
-                {
-                    "amount": "1",
-                    "info": "Talk to the Fisherman inside this house",
-                    "item": "good-rod"
-                },
                 {
                     "amount": "1",
                     "info": "obtained after defeating Jasmine",
