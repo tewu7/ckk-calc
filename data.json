@@ -45975,13 +45975,51 @@
             "name": "kimono-girl-sayo",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 35,
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "blackglasses",
+                    "level": 40,
                     "moves": [
-                        "faint-attack",
-                        "moonlight",
+                        "crunch",
+                        "flamethrower",
+                        "hp-grass",
+                        "quick-attack"
+                    ],
+                    "name": "houndoom"
+                },
+                {
+                    "dvs": {
+                        "atk": 12,
+                        "def": 13,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "blackglasses",
+                    "level": 40,
+                    "moves": [
+                        "crunch",
+                        "ice-beam",
+                        "hp-flying",
+                        "pursuit"
+                    ],
+                    "name": "sneasel"
+                },
+                {
+                    "item": "blackglasses",
+                    "level": 40,
+                    "moves": [
+                        "crunch",
+                        "psychic",
                         "toxic",
-                        "psychic"
+                        "pursuit"
                     ],
                     "name": "umbreon"
                 }
@@ -45992,6 +46030,28 @@
             "name": "kimono-girl-zuki",
             "team": [
                 {
+                    "item": "twistedspoon",
+                    "level": 40,
+                    "moves": [
+                        "psychic",
+                        "waterfall",
+                        "ice-beam",
+                        "earthquake"
+                    ],
+                    "name": "slowking"
+                },
+                {
+                    "item": "twistedspoon",
+                    "level": 40,
+                    "moves": [
+                        "psychic",
+                        "ice-beam",
+                        "seismic-toss",
+                        "lovely-kiss"
+                    ],
+                    "name": "jynx"
+                },
+                {
                     "dvs": {
                         "atk": 14,
                         "def": 12,
@@ -46000,13 +46060,13 @@
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "twistedspoon",
+                    "level": 40,
                     "moves": [
                         "psychic",
                         "hp-fire",
                         "sing",
-                        "shadow-ball"
+                        "psywave"
                     ],
                     "name": "espeon"
                 }
@@ -46017,13 +46077,43 @@
             "name": "kimono-girl-kuni",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 35,
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "charcoal",
+                    "level": 40,
                     "moves": [
                         "flamethrower",
-                        "double-edge",
+                        "hp-grass",
+                        "crunch",
+                        "extremespeed"
+                    ],
+                    "name": "arcanine"
+                },
+                {
+                    "item": "charcoal",
+                    "level": 40,
+                    "moves": [
+                        "flamethrower",
+                        "thunderbolt",
+                        "psychic",
+                        "ice-punch"
+                    ],
+                    "name": "magmar"
+                },
+                {
+                    "item": "charcoal",
+                    "level": 40,
+                    "moves": [
+                        "flamethrower",
+                        "extremespeed",
                         "iron-tail",
-                        "shadow-ball"
+                        "curse"
                     ],
                     "name": "flareon"
                 }
@@ -46034,13 +46124,43 @@
             "name": "kimono-girl-miki",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 35,
+                    "item": "mystic-water",
+                    "level": 40,
+                    "moves": [
+                        "waterfall",
+                        "earthquake",
+                        "ice-beam",
+                        "sludge-bomb"
+                    ],
+                    "name": "quagsire"
+                },
+                {
+                    "item": "mystic-water",
+                    "level": 40,
+                    "moves": [
+                        "waterfall",
+                        "sludge-bomb",
+                        "icy-wind",
+                        "explosion"
+                    ],
+                    "name": "qwilfish"
+                },
+                {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "mystic-water",
+                    "level": 40,
                     "moves": [
                         "waterfall",
                         "ice-beam",
-                        "toxic",
-                        "recover"
+                        "hp-grass",
+                        "growth"
                     ],
                     "name": "vaporeon"
                 }
