@@ -3153,12 +3153,12 @@
                             {
                                 "chance": 30,
                                 "level": 31,
-                                "pokemon": "ninetales"
+                                "pokemon": "vulpix"
                             },
                             {
                                 "chance": 30,
                                 "level": 31,
-                                "pokemon": "magcargo"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
@@ -3190,12 +3190,12 @@
                             {
                                 "chance": 30,
                                 "level": 31,
-                                "pokemon": "magmar"
+                                "pokemon": "magby"
                             },
                             {
                                 "chance": 30,
                                 "level": 31,
-                                "pokemon": "magcargo"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
@@ -3232,7 +3232,7 @@
                             {
                                 "chance": 30,
                                 "level": 31,
-                                "pokemon": "magcargo"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
@@ -3399,12 +3399,12 @@
                             {
                                 "chance": 30,
                                 "level": 25,
-                                "pokemon": "skiploom"
+                                "pokemon": "exeggcute"
                             },
                             {
                                 "chance": 30,
                                 "level": 25,
-                                "pokemon": "sunflora"
+                                "pokemon": "tangela"
                             },
                             {
                                 "chance": 20,
@@ -3414,7 +3414,7 @@
                             {
                                 "chance": 10,
                                 "level": 25,
-                                "pokemon": "pidgeotto"
+                                "pokemon": "yanma"
                             },
                             {
                                 "chance": 5,
@@ -3424,7 +3424,7 @@
                             {
                                 "chance": 4,
                                 "level": 25,
-                                "pokemon": "venonat"
+                                "pokemon": "ariados"
                             },
                             {
                                 "chance": 1,
@@ -3473,27 +3473,27 @@
                             {
                                 "chance": 30,
                                 "level": 25,
-                                "pokemon": "nidorina"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 30,
                                 "level": 25,
-                                "pokemon": "ponyta"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 20,
                                 "level": 25,
-                                "pokemon": "nidorino"
+                                "pokemon": "nidorina"
                             },
                             {
                                 "chance": 10,
                                 "level": 25,
-                                "pokemon": "gloom"
+                                "pokemon": "nidorino"
                             },
                             {
                                 "chance": 5,
                                 "level": 25,
-                                "pokemon": "pikachu"
+                                "pokemon": "flaaffy"
                             },
                             {
                                 "chance": 4,
@@ -9218,7 +9218,7 @@
                             {
                                 "chance": 30,
                                 "level": 24,
-                                "pokemon": "drowzee"
+                                "pokemon": "wooper"
                             },
                             {
                                 "chance": 30,
@@ -9228,7 +9228,7 @@
                             {
                                 "chance": 20,
                                 "level": 24,
-                                "pokemon": "wooper"
+                                "pokemon": "drowzee"
                             },
                             {
                                 "chance": 10,
@@ -9255,7 +9255,7 @@
                             {
                                 "chance": 30,
                                 "level": 24,
-                                "pokemon": "drowzee"
+                                "pokemon": "slugma"
                             },
                             {
                                 "chance": 30,
@@ -9265,7 +9265,7 @@
                             {
                                 "chance": 20,
                                 "level": 24,
-                                "pokemon": "slugma"
+                                "pokemon": "drowzee"
                             },
                             {
                                 "chance": 10,
@@ -9292,7 +9292,7 @@
                             {
                                 "chance": 30,
                                 "level": 24,
-                                "pokemon": "grimer"
+                                "pokemon": "poliwag"
                             },
                             {
                                 "chance": 30,
@@ -9302,7 +9302,7 @@
                             {
                                 "chance": 20,
                                 "level": 24,
-                                "pokemon": "poliwag"
+                                "pokemon": "grimer"
                             },
                             {
                                 "chance": 10,
@@ -9660,12 +9660,12 @@
                             {
                                 "chance": 20,
                                 "level": 29,
-                                "pokemon": "donphan"
+                                "pokemon": "sandslash"
                             },
                             {
                                 "chance": 10,
                                 "level": 29,
-                                "pokemon": "sandslash"
+                                "pokemon": "donphan"
                             },
                             {
                                 "chance": 5,
@@ -23708,15 +23708,15 @@
                 },
                 {
                     "level": 36,
-                    "move": "surf"
-                },
-                {
-                    "level": 36,
                     "move": "petal-dance"
                 },
                 {
                     "level": 36,
                     "move": "thunder"
+                },
+                {
+                    "level": 45,
+                    "move": "surf"
                 }
             ],
             "name": "pikachu",
@@ -23779,6 +23779,10 @@
                 {
                     "level": 42,
                     "move": "thunderbolt"
+                },
+                {
+                    "level": 45,
+                    "move": "surf"
                 },
                 {
                     "level": 48,
@@ -27649,7 +27653,7 @@
                 },
                 {
                     "level": 1,
-                    "move": "surf"
+                    "move": "bubblebeam"
                 },
                 {
                     "level": 50,
@@ -32995,7 +32999,7 @@
                 },
                 {
                     "level": 29,
-                    "move": "surf"
+                    "move": "waterfall"
                 },
                 {
                     "level": 36,
