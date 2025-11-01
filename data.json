@@ -46194,6 +46194,17 @@
                     "name": "omastar"
                 },
                 {
+                    "item": "miracleberry",
+                    "level": 42,
+                    "moves": [
+                        "psychic",
+                        "fire-punch",
+                        "shadow-ball",
+                        "thunder-wave"
+                    ],
+                    "name": "hypno"
+                },
+                {
                     "item": "poison-barb",
                     "level": 39,
                     "moves": [
