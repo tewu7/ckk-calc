@@ -9775,111 +9775,111 @@
                             {
                                 "chance": 30,
                                 "level": 34,
-                                "pokemon": "porygon"
+                                "pokemon": "magcargo"
                             },
                             {
                                 "chance": 30,
                                 "level": 34,
-                                "pokemon": "stantler"
+                                "pokemon": "ninetales"
                             },
                             {
                                 "chance": 20,
                                 "level": 34,
-                                "pokemon": "magnemite"
+                                "pokemon": "rapidash"
                             },
                             {
                                 "chance": 10,
                                 "level": 34,
-                                "pokemon": "fearow"
+                                "pokemon": "quilava"
                             },
                             {
                                 "chance": 5,
                                 "level": 34,
-                                "pokemon": "hitmonchan"
+                                "pokemon": "houndoom"
                             },
                             {
                                 "chance": 4,
                                 "level": 34,
-                                "pokemon": "girafarig"
+                                "pokemon": "charmeleon"
                             },
                             {
                                 "chance": 1,
                                 "level": 34,
-                                "pokemon": "tauros"
+                                "pokemon": "arcanine"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
                                 "level": 34,
-                                "pokemon": "rapidash"
+                                "pokemon": "magmar"
                             },
                             {
                                 "chance": 30,
                                 "level": 34,
-                                "pokemon": "nidorino"
+                                "pokemon": "arcanine"
                             },
                             {
                                 "chance": 20,
                                 "level": 34,
-                                "pokemon": "poliwag"
+                                "pokemon": "ninetales"
                             },
                             {
                                 "chance": 10,
                                 "level": 34,
-                                "pokemon": "aipom"
+                                "pokemon": "houndoom"
                             },
                             {
                                 "chance": 5,
                                 "level": 34,
-                                "pokemon": "nidorina"
+                                "pokemon": "rapidash"
                             },
                             {
                                 "chance": 4,
                                 "level": 34,
-                                "pokemon": "magnemite"
+                                "pokemon": "charmeleon"
                             },
                             {
                                 "chance": 1,
                                 "level": 34,
-                                "pokemon": "tauros"
+                                "pokemon": "quilava"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
                                 "level": 34,
-                                "pokemon": "jynx"
+                                "pokemon": "arcanine"
                             },
                             {
                                 "chance": 30,
                                 "level": 34,
-                                "pokemon": "noctowl"
+                                "pokemon": "rapidash"
                             },
                             {
                                 "chance": 20,
                                 "level": 34,
-                                "pokemon": "xatu"
+                                "pokemon": "charmeleon"
                             },
                             {
                                 "chance": 10,
                                 "level": 34,
-                                "pokemon": "magnemite"
+                                "pokemon": "quilava"
                             },
                             {
                                 "chance": 5,
                                 "level": 34,
-                                "pokemon": "stantler"
+                                "pokemon": "ninetales"
                             },
                             {
                                 "chance": 4,
                                 "level": 34,
-                                "pokemon": "sneasel"
+                                "pokemon": "houndoom"
                             },
                             {
                                 "chance": 1,
                                 "level": 34,
-                                "pokemon": "tauros"
+                                "pokemon": "magmar"
                             }
                         ]
                     },
@@ -22348,7 +22348,7 @@
                     "move": "steel-wing"
                 },
                 {
-                    "level": 46,
+                    "level": 44,
                     "move": "flamethrower"
                 },
                 {
@@ -24808,7 +24808,7 @@
                     "move": "iron-tail"
                 },
                 {
-                    "level": 46,
+                    "level": 42,
                     "move": "flamethrower"
                 },
                 {
@@ -26570,7 +26570,7 @@
                     "move": "crunch"
                 },
                 {
-                    "level": 45,
+                    "level": 42,
                     "move": "flamethrower"
                 },
                 {
@@ -46173,7 +46173,7 @@
             "team": [
                 {
                     "item": "leftovers",
-                    "level": 44,
+                    "level": 43,
                     "moves": [
                         "earthquake",
                         "wrap",
@@ -46183,7 +46183,7 @@
                     "name": "shuckle"
                 },
                 {
-                    "item": "gold-berry",
+                    "item": "miracleberry",
                     "level": 40,
                     "moves": [
                         "ancientpower",
@@ -46192,17 +46192,6 @@
                         "icy-wind"
                     ],
                     "name": "omastar"
-                },
-                {
-                    "item": "miracleberry",
-                    "level": 42,
-                    "moves": [
-                        "psychic",
-                        "fire-punch",
-                        "shadow-ball",
-                        "thunder-wave"
-                    ],
-                    "name": "hypno"
                 },
                 {
                     "item": "poison-barb",
@@ -46216,7 +46205,18 @@
                     "name": "weezing"
                 },
                 {
-                    "item": "scope-lens",
+                    "item": "gold-berry",
+                    "level": 41,
+                    "moves": [
+                        "psychic",
+                        "fire-punch",
+                        "shadow-ball",
+                        "thunder-wave"
+                    ],
+                    "name": "hypno"
+                },
+                {
+                    "item": "miracle-seed",
                     "level": 41,
                     "moves": [
                         "solarbeam",
