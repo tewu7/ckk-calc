@@ -43153,7 +43153,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "flame-wheel",
                         "confuse-ray",
@@ -43170,7 +43170,7 @@
             "team": [
                 {
                     "item": "focus-band",
-                    "level": 22,
+                    "level": 23,
                     "moves": [
                         "rock-throw",
                         "dig",
@@ -43200,6 +43200,17 @@
                     "item": "berry",
                     "level": 23,
                     "moves": [
+                        "ember",
+                        "stomp",
+                        "double-kick",
+                        "sunny-day"
+                    ],
+                    "name": "ponyta"
+                },
+                {
+                    "item": "berry",
+                    "level": 23,
+                    "moves": [
                         "fire-punch",
                         "seismic-toss",
                         "mach-punch",
@@ -43209,11 +43220,12 @@
                 },
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "flame-wheel",
                         "rock-slide",
-                        "lovely-kiss"
+                        "lovely-kiss",
+                        "earthquake"
                     ],
                     "name": "slugma"
                 }
@@ -43236,7 +43248,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 24,
                     "moves": [
                         "waterfall",
                         "ice-beam",
@@ -43247,7 +43259,7 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 21,
+                    "level": 22,
                     "moves": [
                         "rock-throw",
                         "drill-peck",
@@ -43339,6 +43351,17 @@
                         "ice-punch"
                     ],
                     "name": "clefairy"
+                },
+                {
+                    "item": "berry",
+                    "level": 24,
+                    "moves": [
+                        "bubblebeam",
+                        "megahorn",
+                        "icy-wind",
+                        "psybeam"
+                    ],
+                    "name": "goldeen"
                 }
             ]
         },
