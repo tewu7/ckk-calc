@@ -26563,7 +26563,7 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "ember"
+                    "move": "double-kick"
                 },
                 {
                     "level": 39,
@@ -32039,7 +32039,7 @@
             "learnset": [
                 {
                     "level": 1,
-                    "move": "fire-punch"
+                    "move": "mach-punch"
                 },
                 {
                     "level": 31,
@@ -46229,7 +46229,7 @@
                 },
                 {
                     "item": "gold-berry",
-                    "level": 41,
+                    "level": 40,
                     "moves": [
                         "psychic",
                         "fire-punch",
@@ -46256,26 +46256,48 @@
             "name": "beauty-olivia",
             "team": [
                 {
+                    "item": "poison-barb",
+                    "level": 41,
+                    "moves": [
+                        "earthquake",
+                        "sludge-bomb",
+                        "rock-slide",
+                        "tri-attack"
+                    ],
+                    "name": "dugtrio"
+                },
+                {
                     "item": "leftovers",
-                    "level": 38,
+                    "level": 39,
                     "moves": [
                         "psychic",
-                        "softboiled",
-                        "body-slam",
-                        "ice-punch"
+                        "earthquake",
+                        "flamethrower",
+                        "ice-beam"
+                    ],
+                    "name": "slowbro"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 40,
+                    "moves": [
+                        "tri-attack",
+                        "flamethrower",
+                        "solarbeam",
+                        "ice-beam"
                     ],
                     "name": "clefable"
                 },
                 {
-                    "item": "leftovers",
-                    "level": 38,
+                    "item": "miracleberry",
+                    "level": 40,
                     "moves": [
-                        "giga-drain",
                         "earthquake",
-                        "body-slam",
-                        "synthesis"
+                        "megahorn",
+                        "ice-beam",
+                        "fire-blast"
                     ],
-                    "name": "meganium"
+                    "name": "nidoking"
                 }
             ]
         },
