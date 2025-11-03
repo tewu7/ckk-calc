@@ -46256,6 +46256,17 @@
             "name": "beauty-olivia",
             "team": [
                 {
+                    "item": "leftovers",
+                    "level": 40,
+                    "moves": [
+                        "tri-attack",
+                        "flamethrower",
+                        "solarbeam",
+                        "ice-beam"
+                    ],
+                    "name": "clefable"
+                },
+                {
                     "item": "poison-barb",
                     "level": 41,
                     "moves": [
@@ -46276,17 +46287,6 @@
                         "ice-beam"
                     ],
                     "name": "slowbro"
-                },
-                {
-                    "item": "leftovers",
-                    "level": 40,
-                    "moves": [
-                        "tri-attack",
-                        "flamethrower",
-                        "solarbeam",
-                        "ice-beam"
-                    ],
-                    "name": "clefable"
                 },
                 {
                     "item": "miracleberry",
