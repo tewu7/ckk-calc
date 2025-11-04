@@ -46433,72 +46433,115 @@
             "name": "bird-keeper-toby",
             "team": [
                 {
-                    "item": "quick-claw",
-                    "level": 38,
-                    "moves": [
-                        "waterfall",
-                        "ice-beam",
-                        "hypnosis",
-                        "psychic"
-                    ],
-                    "name": "golduck"
-                },
-                {
-                    "item": "pink-bow",
-                    "level": 38,
-                    "moves": [
-                        "sky-attack",
-                        "double-edge",
-                        "steel-wing"
-                    ],
-                    "name": "pidgeot"
-                },
-                {
                     "dvs": {
-                        "atk": 12,
-                        "def": 12,
+                        "atk": 14,
+                        "def": 14,
                         "hp": 3,
                         "spa": 15,
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "berserk-gene",
-                    "level": 37,
+                    "item": "scope-lens",
+                    "level": 42,
                     "moves": [
-                        "wing-attack",
+                        "aeroblast",
+                        "return",
                         "steel-wing",
-                        "hp-fighting",
-                        "shadow-ball"
+                        "hp-grass"
                     ],
-                    "name": "murkrow"
-                }
-            ]
-        },
-        {
-            "area": "Route 38",
-            "name": "schoolboy-chad",
-            "team": [
+                    "name": "pidgeot"
+                },
                 {
-                    "item": "quick-claw",
-                    "level": 39,
+                    "item": "nevermeltice",
+                    "level": 41,
                     "moves": [
-                        "sludge-bomb",
-                        "giga-drain",
-                        "glare",
-                        "earthquake"
+                        "cross-chop",
+                        "ice-beam",
+                        "psychic",
+                        "hypnosis"
                     ],
-                    "name": "arbok"
+                    "name": "golduck"
+                },
+                {
+                    "item": "charcoal",
+                    "level": 40,
+                    "moves": [
+                        "flamethrower",
+                        "earthquake",
+                        "solarbeam",
+                        "rock-slide"
+                    ],
+                    "name": "charizard"
                 },
                 {
                     "item": "miracleberry",
                     "level": 39,
                     "moves": [
-                        "submission",
-                        "rock-slide",
+                        "wing-attack",
                         "earthquake",
-                        "double-edge"
+                        "rock-slide",
+                        "swords-dance"
                     ],
-                    "name": "hitmonlee"
+                    "name": "gligar"
+                }
+            ]
+        },
+        {
+            "area": "Route 38",
+            "meta": "last fight of perma sun",
+            "name": "schoolboy-chad",
+            "team": [
+                {
+                    "item": "pink-bow",
+                    "level": 42,
+                    "moves": [
+                        "double-edge",
+                        "submission",
+                        "shadow-ball",
+                        "iron-tail"
+                    ],
+                    "name": "raticate"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 40,
+                    "moves": [
+                        "tri-attack",
+                        "flamethrower",
+                        "ice-beam",
+                        "thunderbolt"
+                    ],
+                    "name": "porygon2"
+                },
+                {
+                    "dvs": {
+                        "atk": 12,
+                        "def": 13,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "sharp-beak",
+                    "level": 41,
+                    "moves": [
+                        "hp-flying",
+                        "earthquake",
+                        "flamethrower",
+                        "thunderbolt"
+                    ],
+                    "name": "gyarados"
+                },
+                {
+                    "item": "miracleberry",
+                    "level": 40,
+                    "moves": [
+                        "earthquake",
+                        "fire-punch",
+                        "thunderpunch",
+                        "iron-tail"
+                    ],
+                    "name": "dragonite"
                 }
             ]
         },
