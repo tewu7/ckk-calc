@@ -46384,7 +46384,7 @@
             "team": [
                 {
                     "item": "gold-berry",
-                    "level": 40,
+                    "level": 39,
                     "moves": [
                         "psychic",
                         "thunderbolt",
@@ -46395,7 +46395,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 40,
+                    "level": 42,
                     "moves": [
                         "ice-beam",
                         "spikes",
