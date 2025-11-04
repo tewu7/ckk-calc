@@ -46267,7 +46267,7 @@
                     "name": "clefable"
                 },
                 {
-                    "item": "poison-barb",
+                    "item": "scope-lens",
                     "level": 41,
                     "moves": [
                         "earthquake",
@@ -46306,47 +46306,75 @@
             "name": "lass-dana",
             "team": [
                 {
-                    "item": "focus-band",
-                    "level": 38,
+                    "dvs": {
+                        "atk": 14,
+                        "def": 15,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "leftovers",
+                    "level": 41,
                     "moves": [
                         "earthquake",
-                        "slash",
-                        "rock-slide",
-                        "sludge-bomb"
+                        "ice-beam",
+                        "hp-electric",
+                        "mirror-coat"
                     ],
-                    "name": "sandslash"
+                    "name": "blastoise"
                 },
                 {
-                    "item": "focus-band",
-                    "level": 38,
+                    "item": "miracleberry",
+                    "level": 40,
                     "moves": [
-                        "double-edge",
+                        "drill-peck",
                         "psychic",
-                        "thunder-wave",
-                        "thunderbolt"
+                        "solarbeam",
+                        "light-screen"
                     ],
-                    "name": "wigglytuff"
+                    "name": "xatu"
                 },
                 {
-                    "item": "focus-band",
-                    "level": 38,
+                    "item": "hard-stone",
+                    "level": 42,
+                    "moves": [
+                        "ancientpower",
+                        "fire-blast",
+                        "recover",
+                        "explosion"
+                    ],
+                    "name": "magcargo"
+                },
+                {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "magnet",
+                    "level": 39,
                     "moves": [
                         "thunderbolt",
-                        "surf",
-                        "petal-dance",
+                        "fire-punch",
+                        "hp-grass",
                         "thunder-wave"
                     ],
-                    "name": "raichu"
+                    "name": "ampharos"
                 },
                 {
-                    "item": "focus-band",
-                    "level": 38,
+                    "item": "gold-berry",
+                    "level": 39,
                     "moves": [
-                        "giga-drain",
-                        "sludge-bomb",
-                        "lovely-kiss"
+                        "flamethrower",
+                        "solarbeam",
+                        "psychic",
+                        "hypnosis"
                     ],
-                    "name": "victreebel"
+                    "name": "ninetales"
                 }
             ]
         },
