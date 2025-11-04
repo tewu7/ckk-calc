@@ -46383,55 +46383,48 @@
             "name": "beauty-valerie",
             "team": [
                 {
-                    "item": "no-item",
-                    "level": 47,
+                    "item": "gold-berry",
+                    "level": 40,
                     "moves": [
-                        "metronome",
-                        "softboiled",
-                        "thunder-wave"
+                        "psychic",
+                        "thunderbolt",
+                        "fire-punch",
+                        "hypnosis"
                     ],
-                    "name": "togetic"
-                },
-                {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "focus-band",
-                    "level": 38,
-                    "moves": [
-                        "petal-dance",
-                        "sludge-bomb",
-                        "hp-fire",
-                        "synthesis"
-                    ],
-                    "name": "vileplume"
+                    "name": "mr-mime"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 38,
+                    "level": 40,
                     "moves": [
-                        "sing",
-                        "waterfall",
                         "ice-beam",
-                        "megahorn"
+                        "spikes",
+                        "icy-wind",
+                        "explosion"
                     ],
-                    "name": "dewgong"
+                    "name": "cloyster"
                 },
                 {
-                    "item": "quick-claw",
-                    "level": 38,
+                    "item": "scope-lens",
+                    "level": 42,
                     "moves": [
-                        "flamethrower",
+                        "extremespeed",
                         "iron-tail",
-                        "shadow-ball",
-                        "double-edge"
+                        "fire-punch",
+                        "ice-punch"
                     ],
-                    "name": "flareon"
+                    "name": "furret"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 41,
+                    "moves": [
+                        "earthquake",
+                        "ancientpower",
+                        "swords-dance",
+                        "leech-seed"
+                    ],
+                    "name": "venusaur"
                 }
             ]
         },
