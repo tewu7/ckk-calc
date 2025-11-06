@@ -47647,7 +47647,7 @@
                 },
                 {
                     "item": "blackbelt",
-                    "level": 43,
+                    "level": 44,
                     "moves": [
                         "thunderbolt",
                         "cross-chop",
@@ -47657,15 +47657,15 @@
                     "name": "electabuzz"
                 },
                 {
-                    "item": "quick-claw",
+                    "item": "silverpowder",
                     "level": 44,
                     "moves": [
-                        "cross-chop",
+                        "megahorn",
+                        "submission",
                         "rock-slide",
-                        "earthquake",
-                        "mach-punch"
+                        "counter"
                     ],
-                    "name": "machamp"
+                    "name": "heracross"
                 },
                 {
                     "item": "pink-bow",
@@ -47679,15 +47679,15 @@
                     "name": "ursaring"
                 },
                 {
-                    "item": "miracleberry",
+                    "item": "quick-claw",
                     "level": 44,
                     "moves": [
                         "cross-chop",
-                        "earthquake",
                         "rock-slide",
-                        "reversal"
+                        "earthquake",
+                        "mach-punch"
                     ],
-                    "name": "primeape"
+                    "name": "machamp"
                 }
             ]
         },
