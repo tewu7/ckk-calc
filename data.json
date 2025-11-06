@@ -47450,7 +47450,7 @@
         },
         {
             "area": "Cianwood city gym",
-            "meta": "gauntlet",
+            "meta": "start of gauntlet",
             "name": "blackbelt-yoshi",
             "team": [
                 {
@@ -47479,7 +47479,7 @@
                     "level": 43,
                     "moves": [
                         "mach-punch",
-                        "earthquake",
+                        "thunderpunch",
                         "submission",
                         "rock-slide"
                     ],
@@ -47504,13 +47504,13 @@
                     "name": "hitmonlee"
                 },
                 {
-                    "item": "soft-sand",
+                    "item": "quick-claw",
                     "level": 42,
                     "moves": [
                         "earthquake",
                         "rock-slide",
                         "sludge-bomb",
-                        "body-slam"
+                        "metal-claw"
                     ],
                     "name": "sandslash"
                 },
@@ -47532,13 +47532,15 @@
             "name": "blackbelt-nob",
             "team": [
                 {
-                    "item": "quick-claw",
+                    "item": "blackbelt",
                     "level": 42,
                     "moves": [
-                        "earthquake",
-                        "ancientpower"
+                        "flamethrower",
+                        "hi-jump-kick",
+                        "double-edge",
+                        "megahorn"
                     ],
-                    "name": "golem"
+                    "name": "rapidash"
                 },
                 {
                     "item": "berserk-gene",
@@ -47552,22 +47554,26 @@
                     "name": "farfetchd"
                 },
                 {
-                    "item": "mysteryberry",
+                    "item": "miracleberry",
                     "level": 42,
                     "moves": [
-                        "endure",
-                        "reversal"
+                        "cross-chop",
+                        "earthquake",
+                        "rock-slide",
+                        "mach-punch"
                     ],
                     "name": "primeape"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 50,
+                    "item": "blackbelt",
+                    "level": 43,
                     "moves": [
-                        "mean-look",
-                        "destiny-bond"
+                        "submission",
+                        "psychic",
+                        "shadow-ball",
+                        "thunder-wave"
                     ],
-                    "name": "wobbuffet"
+                    "name": "hypno"
                 }
             ]
         },
