@@ -46714,7 +46714,7 @@
                         "earthquake",
                         "spikes",
                         "rock-slide",
-                        "body-slam"
+                        "sludge"
                     ],
                     "name": "donphan"
                 },
@@ -46806,7 +46806,7 @@
             "name": "swimmerm-simon",
             "team": [
                 {
-                    "item": "silverpowder",
+                    "item": "brightpowder",
                     "level": 40,
                     "moves": [
                         "megahorn",
@@ -46816,7 +46816,7 @@
                     "name": "seaking"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "focus-band",
                     "level": 45,
                     "moves": [
                         "rollout"
@@ -46831,7 +46831,7 @@
             "name": "swimmerf-paula",
             "team": [
                 {
-                    "item": "leftovers",
+                    "item": "quick-claw",
                     "level": 40,
                     "moves": [
                         "giga-drain",
@@ -46841,7 +46841,7 @@
                     "name": "sunflora"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "brightpowder",
                     "level": 40,
                     "moves": [
                         "ancientpower",
@@ -46852,7 +46852,7 @@
                     "name": "corsola"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "focus-band",
                     "level": 40,
                     "moves": [
                         "toxic",
