@@ -43071,7 +43071,7 @@
         },
         {
             "area": "Route 32",
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "bird-keeper-peter",
             "team": [
                 {
@@ -43395,7 +43395,7 @@
         },
         {
             "area": "Union cave",
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "pokemaniac-larry",
             "team": [
                 {
@@ -46547,18 +46547,51 @@
         },
         {
             "area": "Route 39",
+            "meta": "start of gauntlet",
             "name": "pokefanf-jaime",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 50,
+                    "item": "focus-band",
+                    "level": 40,
                     "moves": [
-                        "slash",
-                        "shadow-ball",
-                        "bubblebeam",
-                        "thunder"
+                        "earthquake",
+                        "metal-claw",
+                        "rock-slide",
+                        "sludge-bomb"
                     ],
-                    "name": "meowth"
+                    "name": "sandslash"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 40,
+                    "moves": [
+                        "double-edge",
+                        "psychic",
+                        "thunder-wave",
+                        "thunderbolt"
+                    ],
+                    "name": "wigglytuff"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 40,
+                    "moves": [
+                        "thunderbolt",
+                        "surf",
+                        "petal-dance",
+                        "thunder-wave"
+                    ],
+                    "name": "raichu"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 38,
+                    "moves": [
+                        "giga-drain",
+                        "sludge-bomb",
+                        "lovely-kiss"
+                    ],
+                    "name": "victreebel"
                 }
             ]
         },
@@ -46567,15 +46600,56 @@
             "name": "pokefanm-derek",
             "team": [
                 {
-                    "item": "light-ball",
-                    "level": 45,
+                    "item": "leftovers",
+                    "level": 40,
                     "moves": [
-                        "thunderbolt",
-                        "surf",
-                        "petal-dance",
-                        "quick-attack"
+                        "submission",
+                        "ice-beam",
+                        "earthquake",
+                        "icy-wind"
                     ],
-                    "name": "pikachu"
+                    "name": "poliwrath"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 40,
+                    "moves": [
+                        "flamethrower",
+                        "iron-tail",
+                        "curse",
+                        "double-edge"
+                    ],
+                    "name": "flareon"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 40,
+                    "moves": [
+                        "sludge-bomb",
+                        "giga-drain",
+                        "glare",
+                        "earthquake"
+                    ],
+                    "name": "arbok"
+                },
+                {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 12,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "focus-band",
+                    "level": 38,
+                    "moves": [
+                        "petal-dance",
+                        "sludge-bomb",
+                        "hp-fire",
+                        "synthesis"
+                    ],
+                    "name": "vileplume"
                 }
             ]
         },
@@ -46596,21 +46670,23 @@
                 },
                 {
                     "item": "twistedspoon",
-                    "level": 39,
+                    "level": 40,
                     "moves": [
                         "psybeam",
                         "surf",
-                        "ice-punch"
+                        "ice-punch",
+                        "amnesia"
                     ],
                     "name": "slowbro"
                 },
                 {
                     "item": "focus-band",
-                    "level": 39,
+                    "level": 40,
                     "moves": [
                         "psybeam",
                         "giga-drain",
-                        "sleep-powder"
+                        "sleep-powder",
+                        "egg-bomb"
                     ],
                     "name": "exeggutor"
                 },
@@ -46619,11 +46695,11 @@
                     "level": 39,
                     "moves": [
                         "psychic",
-                        "tri-attack",
-                        "recover",
-                        "shadow-ball"
+                        "body-slam",
+                        "earthquake",
+                        "crunch"
                     ],
-                    "name": "porygon2"
+                    "name": "girafarig"
                 }
             ]
         },
@@ -46632,21 +46708,51 @@
             "name": "pokefanf-ruth",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 50,
+                    "item": "focus-band",
+                    "level": 40,
                     "moves": [
-                        "quick-attack",
-                        "ice-punch",
-                        "fire-punch",
-                        "thunderpunch"
+                        "earthquake",
+                        "spikes",
+                        "rock-slide",
+                        "body-slam"
                     ],
-                    "name": "furret"
+                    "name": "donphan"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 41,
+                    "moves": [
+                        "rock-slide",
+                        "earthquake",
+                        "double-edge",
+                        "submission"
+                    ],
+                    "name": "sudowoodo"
+                },
+                {
+                    "dvs": {
+                        "atk": 12,
+                        "def": 15,
+                        "hp": 7,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "brightpowder",
+                    "level": 40,
+                    "moves": [
+                        "drill-peck",
+                        "steel-wing",
+                        "hp-ground",
+                        "faint-attack"
+                    ],
+                    "name": "murkrow"
                 }
             ]
         },
         {
             "area": "Route 39",
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "sailor-eugene",
             "team": [
                 {
@@ -46662,7 +46768,7 @@
                 },
                 {
                     "item": "focus-band",
-                    "level": 39,
+                    "level": 40,
                     "moves": [
                         "submission",
                         "earthquake",
@@ -46681,6 +46787,17 @@
                         "sludge-bomb"
                     ],
                     "name": "octillery"
+                },
+                {
+                    "item": "berserk-gene",
+                    "level": 38,
+                    "moves": [
+                        "submission",
+                        "rock-slide",
+                        "earthquake",
+                        "body-slam"
+                    ],
+                    "name": "machoke"
                 }
             ]
         },
@@ -47418,7 +47535,7 @@
         {
             "area": "Cianwood city gym",
             "b2b": true,
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "blackbelt-lung",
             "team": [
                 {
@@ -56024,7 +56141,7 @@
         },
         {
             "area": "Route 15",
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "teacher-hillary",
             "team": [
                 {
@@ -58256,7 +58373,7 @@
         {
             "area": "Route 4",
             "b2b": true,
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "picnicker-hope",
             "team": [
                 {
@@ -59514,7 +59631,7 @@
         },
         {
             "area": "Route 20",
-            "meta": "end of gauntlet",
+            "meta": "last fight of gauntlet",
             "name": "swimmerf-nicole",
             "team": [
                 {
