@@ -47624,15 +47624,15 @@
             "name": "leader-chuck",
             "team": [
                 {
-                    "item": "nevermeltice",
+                    "item": "blackbelt",
                     "level": 44,
                     "moves": [
-                        "lovely-kiss",
-                        "submission",
+                        "cross-chop",
+                        "waterfall",
                         "earthquake",
-                        "ice-beam"
+                        "crunch"
                     ],
-                    "name": "poliwrath"
+                    "name": "feraligatr"
                 },
                 {
                     "item": "magnet",
@@ -47647,7 +47647,7 @@
                 },
                 {
                     "item": "blackbelt",
-                    "level": 43,
+                    "level": 44,
                     "moves": [
                         "thunderbolt",
                         "cross-chop",
@@ -47660,12 +47660,12 @@
                     "item": "quick-claw",
                     "level": 44,
                     "moves": [
-                        "cross-chop",
-                        "rock-slide",
+                        "dynamicpunch",
                         "earthquake",
-                        "mach-punch"
+                        "rock-slide",
+                        "explosion"
                     ],
-                    "name": "machamp"
+                    "name": "golem"
                 },
                 {
                     "item": "pink-bow",
@@ -47679,15 +47679,15 @@
                     "name": "ursaring"
                 },
                 {
-                    "item": "miracleberry",
+                    "item": "quick-claw",
                     "level": 44,
                     "moves": [
                         "cross-chop",
-                        "earthquake",
                         "rock-slide",
-                        "reversal"
+                        "earthquake",
+                        "mach-punch"
                     ],
-                    "name": "primeape"
+                    "name": "machamp"
                 }
             ]
         },
