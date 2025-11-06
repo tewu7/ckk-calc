@@ -46811,15 +46811,19 @@
                     "moves": [
                         "megahorn",
                         "double-edge",
-                        "waterfall"
+                        "waterfall",
+                        "ice-beam"
                     ],
                     "name": "seaking"
                 },
                 {
                     "item": "focus-band",
-                    "level": 45,
+                    "level": 43,
                     "moves": [
-                        "rollout"
+                        "double-edge",
+                        "earthquake",
+                        "glare",
+                        "rock-slide"
                     ],
                     "name": "dunsparce"
                 }
@@ -46836,7 +46840,8 @@
                     "moves": [
                         "giga-drain",
                         "sludge-bomb",
-                        "synthesis"
+                        "synthesis",
+                        "sacred-fire"
                     ],
                     "name": "sunflora"
                 },
@@ -46846,18 +46851,19 @@
                     "moves": [
                         "ancientpower",
                         "ice-beam",
-                        "waterfall",
+                        "surf",
                         "recover"
                     ],
                     "name": "corsola"
                 },
                 {
                     "item": "focus-band",
-                    "level": 40,
+                    "level": 42,
                     "moves": [
-                        "toxic",
+                        "confuse-ray",
                         "waterfall",
-                        "ice-beam"
+                        "ice-beam",
+                        "aeroblast"
                     ],
                     "name": "mantine"
                 }
