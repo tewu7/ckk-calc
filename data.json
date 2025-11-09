@@ -47699,7 +47699,7 @@
         },
         {
             "area": "Mt. Mortar",
-            "meta": "(gives you tyrogue)",
+            "meta": "start of perma sandstorm\n(gives you tyrogue)",
             "name": "blackbelt-kiyo",
             "team": [
                 {
@@ -47811,6 +47811,7 @@
         },
         {
             "area": "Mt. Mortar",
+            "meta": "last fight of perma sandstorm",
             "name": "super-nerd-hugh",
             "team": [
                 {
