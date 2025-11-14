@@ -43768,17 +43768,6 @@
                     "name": "yanma"
                 },
                 {
-                    "item": "berry",
-                    "level": 22,
-                    "moves": [
-                        "karate-chop",
-                        "rock-throw",
-                        "headbutt",
-                        "pin-missile"
-                    ],
-                    "name": "heracross"
-                },
-                {
                     "item": "miracleberry",
                     "level": 24,
                     "moves": [
@@ -43788,6 +43777,17 @@
                         "shadow-ball"
                     ],
                     "name": "golbat"
+                },
+                {
+                    "item": "berserk-gene",
+                    "level": 22,
+                    "moves": [
+                        "karate-chop",
+                        "rock-throw",
+                        "headbutt",
+                        "pin-missile"
+                    ],
+                    "name": "heracross"
                 }
             ]
         },
@@ -47505,7 +47505,7 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 42,
+                    "level": 43,
                     "moves": [
                         "earthquake",
                         "rock-slide",
@@ -47515,15 +47515,15 @@
                     "name": "sandslash"
                 },
                 {
-                    "item": "miracleberry",
+                    "item": "silverpowder",
                     "level": 43,
                     "moves": [
-                        "belly-drum",
+                        "megahorn",
                         "submission",
-                        "body-slam",
-                        "waterfall"
+                        "earthquake",
+                        "rock-slide"
                     ],
-                    "name": "politoed"
+                    "name": "heracross"
                 }
             ]
         },
@@ -47543,15 +47543,15 @@
                     "name": "rapidash"
                 },
                 {
-                    "item": "berserk-gene",
-                    "level": 42,
+                    "item": "gold-berry",
+                    "level": 43,
                     "moves": [
-                        "double-edge",
-                        "steel-wing",
-                        "sky-attack",
-                        "submission"
+                        "belly-drum",
+                        "cross-chop",
+                        "ice-punch",
+                        "earthquake"
                     ],
-                    "name": "farfetchd"
+                    "name": "politoed"
                 },
                 {
                     "item": "miracleberry",
@@ -47584,23 +47584,15 @@
             "name": "blackbelt-lung",
             "team": [
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 15,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
-                    "level": 42,
+                    "item": "quick-claw",
+                    "level": 43,
                     "moves": [
-                        "sky-attack",
-                        "pursuit",
-                        "steel-wing",
-                        "hp-ground"
+                        "rock-slide",
+                        "submission",
+                        "dig",
+                        "giga-drain"
                     ],
-                    "name": "murkrow"
+                    "name": "kabutops"
                 },
                 {
                     "item": "focus-band",
@@ -47634,7 +47626,7 @@
                     "level": 44,
                     "moves": [
                         "cross-chop",
-                        "waterfall",
+                        "rock-slide",
                         "earthquake",
                         "crunch"
                     ],
@@ -47699,7 +47691,7 @@
         },
         {
             "area": "Mt. Mortar",
-            "meta": "start of perma sandstorm\n(gives you tyrogue)",
+            "meta": "start of perma sandstorm (gives you tyrogue)",
             "name": "blackbelt-kiyo",
             "team": [
                 {
