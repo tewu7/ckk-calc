@@ -5350,7 +5350,7 @@
                         {
                             "chance": 10,
                             "level": 40,
-                            "pokemon": "mantine"
+                            "pokemon": "misdreavus"
                         }
                     ],
                     "type": "surfing"
@@ -17775,6 +17775,11 @@
         {
             "id": 35,
             "items": [
+                {
+                    "amount": "1",
+                    "info": "B1F",
+                    "item": "twistedspoon"
+                },
                 {
                     "amount": "1",
                     "info": "2F inside",
@@ -47695,7 +47700,18 @@
             "name": "blackbelt-kiyo",
             "team": [
                 {
-                    "item": "miracleberry",
+                    "item": "blackbelt",
+                    "level": 50,
+                    "moves": [
+                        "body-slam",
+                        "submission",
+                        "rock-slide",
+                        "counter"
+                    ],
+                    "name": "kangaskhan"
+                },
+                {
+                    "item": "focus-band",
                     "level": 50,
                     "moves": [
                         "double-edge",
@@ -47706,15 +47722,37 @@
                     "name": "hitmonlee"
                 },
                 {
-                    "item": "miracleberry",
+                    "item": "focus-band",
                     "level": 50,
                     "moves": [
-                        "shadow-ball",
+                        "mach-punch",
                         "submission",
                         "rock-slide",
                         "earthquake"
                     ],
                     "name": "hitmonchan"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 50,
+                    "moves": [
+                        "shadow-ball",
+                        "submission",
+                        "curse",
+                        "earthquake"
+                    ],
+                    "name": "hitmontop"
+                },
+                {
+                    "item": "berserk-gene",
+                    "level": 50,
+                    "moves": [
+                        "shadow-ball",
+                        "submission",
+                        "hypnosis",
+                        "fire-punch"
+                    ],
+                    "name": "gengar"
                 }
             ]
         },
