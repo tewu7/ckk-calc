@@ -47711,13 +47711,13 @@
                     "name": "kangaskhan"
                 },
                 {
-                    "item": "focus-band",
-                    "level": 50,
+                    "item": "quick-claw",
+                    "level": 49,
                     "moves": [
                         "double-edge",
                         "submission",
                         "rock-slide",
-                        "reversal"
+                        "earthquake"
                     ],
                     "name": "hitmonlee"
                 },
@@ -47725,23 +47725,23 @@
                     "item": "focus-band",
                     "level": 50,
                     "moves": [
-                        "mach-punch",
-                        "submission",
-                        "rock-slide",
-                        "earthquake"
+                        "earthquake",
+                        "cross-chop",
+                        "shadow-ball",
+                        "meditate"
                     ],
                     "name": "hitmonchan"
                 },
                 {
-                    "item": "focus-band",
+                    "item": "silverpowder",
                     "level": 50,
                     "moves": [
-                        "shadow-ball",
-                        "submission",
-                        "curse",
+                        "megahorn",
+                        "cross-chop",
+                        "rock-slide",
                         "earthquake"
                     ],
-                    "name": "hitmontop"
+                    "name": "pinsir"
                 },
                 {
                     "item": "berserk-gene",
