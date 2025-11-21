@@ -47783,11 +47783,11 @@
                     "name": "ledian"
                 },
                 {
-                    "item": "quick-claw",
+                    "item": "pink-bow",
                     "level": 51,
                     "moves": [
                         "double-edge",
-                        "earthquake",
+                        "iron-tail",
                         "ancientpower",
                         "explosion"
                     ],
