@@ -47761,37 +47761,67 @@
             "name": "pokemaniac-miller",
             "team": [
                 {
-                    "item": "quick-claw",
-                    "level": 46,
+                    "item": "leftovers",
+                    "level": 52,
                     "moves": [
-                        "flamethrower",
-                        "iron-tail",
-                        "shadow-ball",
-                        "quick-attack"
+                        "wrap",
+                        "spikes",
+                        "toxic",
+                        "protect"
                     ],
-                    "name": "flareon"
+                    "name": "shuckle"
+                },
+                {
+                    "item": "berserk-gene",
+                    "level": 55,
+                    "moves": [
+                        "sky-attack",
+                        "dynamicpunch",
+                        "giga-drain",
+                        "fire-punch"
+                    ],
+                    "name": "ledian"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 51,
+                    "moves": [
+                        "double-edge",
+                        "earthquake",
+                        "ancientpower",
+                        "explosion"
+                    ],
+                    "name": "dunsparce"
                 },
                 {
                     "item": "leftovers",
-                    "level": 47,
+                    "level": 50,
                     "moves": [
-                        "waterfall",
-                        "megahorn",
                         "ice-beam",
-                        "body-slam"
+                        "psychic",
+                        "lovely-kiss",
+                        "destiny-bond"
                     ],
-                    "name": "dewgong"
+                    "name": "jynx"
                 },
                 {
-                    "item": "quick-claw",
-                    "level": 47,
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "soft-sand",
+                    "level": 51,
                     "moves": [
-                        "psychic",
-                        "ice-beam",
-                        "waterfall",
-                        "earthquake"
+                        "earthquake",
+                        "sludge-bomb",
+                        "fire-punch",
+                        "hp-grass"
                     ],
-                    "name": "slowbro"
+                    "name": "nidoking"
                 }
             ]
         },
