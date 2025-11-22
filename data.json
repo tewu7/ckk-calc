@@ -47701,7 +47701,7 @@
             "team": [
                 {
                     "item": "blackbelt",
-                    "level": 52,
+                    "level": 51,
                     "moves": [
                         "body-slam",
                         "submission",
@@ -47900,43 +47900,59 @@
             "name": "super-nerd-hugh",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 45,
+                    "item": "quick-claw",
+                    "level": 51,
                     "moves": [
-                        "thunderbolt",
-                        "explosion",
-                        "flamethrower",
-                        "sludge-bomb"
-                    ],
-                    "name": "weezing"
-                },
-                {
-                    "dvs": {
-                        "atk": 13,
-                        "def": 15,
-                        "hp": 15,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
-                    "level": 45,
-                    "moves": [
-                        "hp-steel",
-                        "explosion",
-                        "spikes"
-                    ],
-                    "name": "forretress"
-                },
-                {
-                    "item": "miracleberry",
-                    "level": 45,
-                    "moves": [
+                        "earthquake",
+                        "spikes",
                         "waterfall",
-                        "explosion",
                         "ice-beam"
                     ],
                     "name": "cloyster"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 52,
+                    "moves": [
+                        "fire-blast",
+                        "ancientpower",
+                        "agility",
+                        "explosion"
+                    ],
+                    "name": "magcargo"
+                },
+                {
+                    "item": "twistedspoon",
+                    "level": 50,
+                    "moves": [
+                        "psychic",
+                        "dynamicpunch",
+                        "fire-punch",
+                        "ice-punch"
+                    ],
+                    "name": "alakazam"
+                },
+                {
+                    "item": "brightpowder",
+                    "level": 53,
+                    "moves": [
+                        "body-slam",
+                        "earthquake",
+                        "iron-tail",
+                        "curse"
+                    ],
+                    "name": "lickitung"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 50,
+                    "moves": [
+                        "petal-dance",
+                        "earthquake",
+                        "ancientpower",
+                        "swords-dance"
+                    ],
+                    "name": "meganium"
                 }
             ]
         },
