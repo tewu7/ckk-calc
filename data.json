@@ -47701,7 +47701,7 @@
             "team": [
                 {
                     "item": "blackbelt",
-                    "level": 50,
+                    "level": 52,
                     "moves": [
                         "body-slam",
                         "submission",
@@ -47712,7 +47712,7 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 49,
+                    "level": 50,
                     "moves": [
                         "double-edge",
                         "submission",
@@ -47722,7 +47722,7 @@
                     "name": "hitmonlee"
                 },
                 {
-                    "item": "focus-band",
+                    "item": "brightpowder",
                     "level": 50,
                     "moves": [
                         "earthquake",
@@ -47734,7 +47734,7 @@
                 },
                 {
                     "item": "silverpowder",
-                    "level": 50,
+                    "level": 51,
                     "moves": [
                         "megahorn",
                         "cross-chop",
