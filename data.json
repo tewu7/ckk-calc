@@ -47813,7 +47813,7 @@
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "soft-sand",
+                    "item": "poison-barb",
                     "level": 51,
                     "moves": [
                         "earthquake",
@@ -47838,32 +47838,57 @@
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "miracleberry",
-                    "level": 45,
+                    "item": "scope-lens",
+                    "level": 50,
                     "moves": [
                         "thunderbolt",
                         "explosion",
-                        "hp-grass"
+                        "hp-grass",
+                        "reflect"
                     ],
                     "name": "electrode"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 45,
+                    "item": "scope-lens",
+                    "level": 50,
+                    "moves": [
+                        "rock-slide",
+                        "explosion",
+                        "pin-missile",
+                        "earthquake"
+                    ],
+                    "name": "forretress"
+                },
+                {
+                    "item": "scope-lens",
+                    "level": 50,
                     "moves": [
                         "sludge-bomb",
                         "explosion",
-                        "waterfall"
+                        "thunderbolt",
+                        "flamethrower"
+                    ],
+                    "name": "weezing"
+                },
+                {
+                    "item": "scope-lens",
+                    "level": 50,
+                    "moves": [
+                        "sludge-bomb",
+                        "explosion",
+                        "waterfall",
+                        "icy-wind"
                     ],
                     "name": "qwilfish"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 45,
+                    "item": "scope-lens",
+                    "level": 50,
                     "moves": [
                         "giga-drain",
-                        "selfdestruct",
-                        "psychic"
+                        "explosion",
+                        "psychic",
+                        "ancientpower"
                     ],
                     "name": "exeggutor"
                 }
