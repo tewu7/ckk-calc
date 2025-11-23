@@ -47962,17 +47962,18 @@
             "team": [
                 {
                     "item": "quick-claw",
-                    "level": 47,
+                    "level": 49,
                     "moves": [
                         "ancientpower",
                         "earthquake",
-                        "double-edge"
+                        "double-edge",
+                        "selfdestruct"
                     ],
                     "name": "sudowoodo"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 47,
+                    "item": "focus-band",
+                    "level": 50,
                     "moves": [
                         "sludge-bomb",
                         "confuse-ray",
@@ -47982,21 +47983,13 @@
                     "name": "crobat"
                 },
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 12,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracleberry",
-                    "level": 47,
+                    "item": "brightpowder",
+                    "level": 51,
                     "moves": [
                         "earthquake",
                         "sludge-bomb",
                         "ancientpower",
-                        "hp-fighting"
+                        "swagger"
                     ],
                     "name": "dugtrio"
                 }
@@ -48004,40 +47997,49 @@
         },
         {
             "area": "Route 42",
+            "b2b": true,
             "name": "pokemaniac-shane",
             "team": [
                 {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 12,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
                     "item": "quick-claw",
-                    "level": 47,
+                    "level": 49,
                     "moves": [
                         "sludge-bomb",
                         "petal-dance",
                         "sleep-powder",
-                        "giga-drain"
+                        "hp-fire"
                     ],
                     "name": "vileplume"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 47,
-                    "moves": [
-                        "flamethrower",
-                        "iron-tail",
-                        "confuse-ray",
-                        "quick-attack"
-                    ],
-                    "name": "ninetales"
-                },
-                {
-                    "item": "miracleberry",
-                    "level": 47,
+                    "item": "focus-band",
+                    "level": 50,
                     "moves": [
                         "giga-drain",
                         "psychic",
-                        "shadow-ball",
+                        "light-screen",
                         "drill-peck"
                     ],
                     "name": "xatu"
+                },
+                {
+                    "item": "brightpowder",
+                    "level": 51,
+                    "moves": [
+                        "sacred-fire",
+                        "iron-tail",
+                        "confuse-ray",
+                        "psychic"
+                    ],
+                    "name": "ninetales"
                 }
             ]
         },
@@ -48046,12 +48048,24 @@
             "name": "fisher-tully",
             "team": [
                 {
-                    "item": "berserk-gene",
+                    "item": "leftovers",
                     "level": 99,
                     "moves": [
-                        "flail"
+                        "water-gun",
+                        "confusion",
+                        "amnesia"
                     ],
-                    "name": "magikarp"
+                    "name": "psyduck"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 99,
+                    "moves": [
+                        "rock-smash",
+                        "stomp",
+                        "mud-slap"
+                    ],
+                    "name": "krabby"
                 }
             ]
         },
