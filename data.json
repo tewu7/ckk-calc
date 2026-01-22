@@ -48048,24 +48048,37 @@
             "name": "fisher-tully",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 99,
+                    "item": "brightpowder",
+                    "level": 53,
                     "moves": [
-                        "water-gun",
-                        "confusion",
-                        "amnesia"
+                        "spikes",
+                        "ice-beam",
+                        "waterfall",
+                        "ancientpower"
                     ],
-                    "name": "psyduck"
+                    "name": "corsola"
                 },
                 {
-                    "item": "leftovers",
-                    "level": 99,
+                    "item": "focus-band",
+                    "level": 52,
                     "moves": [
-                        "rock-smash",
-                        "scratch",
-                        "mud-slap"
+                        "megahorn",
+                        "ice-beam",
+                        "whirlpool",
+                        "curse"
                     ],
-                    "name": "krabby"
+                    "name": "seaking"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 52,
+                    "moves": [
+                        "psychic",
+                        "waterfall",
+                        "ice-beam",
+                        "flamethrower"
+                    ],
+                    "name": "slowking"
                 }
             ]
         },
