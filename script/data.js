@@ -176,6 +176,9 @@ function initGame() {
 		game.name = "custom";
 		loadData(localStorage.getItem("calc/custom-data"));
 		return;
+	} else if (window.location.search == "?test" || window.location.search == "?test=") {
+		game.name = "ck+";
+		fetchData("test.json");
 	} else if (window.location.search == "?tewu" || window.location.search == "?tewu=") {
 		game.name = "tewu crystal";
 		fetchData("tewu.json");
