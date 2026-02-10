@@ -172,15 +172,14 @@ function loadFights(text) {
 
 function initGame() {
 	game = {};
-	if (window.location.search == "?test" || window.location.search == "?test=") {
-		game.name = "ck+k";
-		fetchData("test.json");
-	} else {
-		game.name = "ck+k";
-		fetchData("data.json");
-		fetchFights("fights.json");
-	}
+	document.getElementById("game-select-overlay").classList.remove("hidden");
+}
+
+function selectGame(dataFile) {
+	game.name = "ck+k";
+	fetchData(dataFile);
 	updateEngineFlags();
+	document.getElementById("game-select-overlay").classList.add("hidden");
 }
 
 function updateEngineFlags() {
