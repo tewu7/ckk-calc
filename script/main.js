@@ -1,9 +1,14 @@
 var savedData = {};
 var settings = {};
 
+function getStorageKey() {
+	return "calc/" + (game && game.id ? game.id : "ck+");
+}
+
 function readLocalStorage() {
-	if (localStorage.getItem("calc/ck+")) {
-		savedData = JSON.parse(localStorage.getItem("calc/ck+"));
+	var storageKey = getStorageKey();
+	if (localStorage.getItem(storageKey)) {
+		savedData = JSON.parse(localStorage.getItem(storageKey));
 	} else {
 		if (localStorage.getItem("box")) {
 			savedData["box"] = JSON.parse(localStorage.getItem("box"));
@@ -33,7 +38,7 @@ function readLocalStorage() {
 }
 
 function writeLocalStorage() {
-	localStorage.setItem("calc/ck+", JSON.stringify(savedData));
+	localStorage.setItem(getStorageKey(), JSON.stringify(savedData));
 }
 
 function updateSettings() {
@@ -104,7 +109,7 @@ document.getElementById("badges").oninput = function (event) {
 	updateBadges();
 }
 
-readLocalStorage();
+// Note: readLocalStorage() is now called in selectGame() after game.id is set
 
 setItemMenu();
 

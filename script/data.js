@@ -175,9 +175,11 @@ function initGame() {
 	document.getElementById("game-select-overlay").classList.remove("hidden");
 }
 
-function selectGame(dataFile) {
+function selectGame(gameId, dataFile) {
 	game.name = "ck+k";
+	game.id = gameId;
 	fetchData(dataFile);
+	readLocalStorage();
 	updateEngineFlags();
 	document.getElementById("game-select-overlay").classList.add("hidden");
 }
