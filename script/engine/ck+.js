@@ -269,39 +269,3 @@ function getModifiedStat(poke, stages, stat) {
 	var modifiers = [25, 28, 33, 40, 50, 66, 100, 150, 200, 250, 300, 350, 400];
 	return parseInt(base * modifiers[stage + 6] / 100);
 }
-
-if (game.name == "ck+xp") {
-	attackBadges = 99;
-	defenseBadges = 99;
-	specialBadges = 99;
-	speedBadges = 99;
-	badgeTypes = new Map([
-		["dragon", 1],
-		["water", 2],
-		["fighting", 3],
-		["ice", 4],
-	]);
-} else {
-	attackBadges = 1;
-	defenseBadges = 7;
-	specialBadges = 6;
-	speedBadges = 3;
-	badgeTypes = new Map([
-		["flying", 1],
-		["bug", 2],
-		["normal", 3],
-		["ghost", 4],
-		["fighting", 5],
-		["ice", 6],
-		["steel", 7],
-		["dragon", 8],
-		["electric", 9],
-		["psychic", 10],
-		["poison", 11],
-		["grass", 12],
-		["rock", 13],
-		["water", 14],
-		["fire", 15],
-		["ground", 16],
-	]);
-}

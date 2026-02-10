@@ -172,18 +172,11 @@ function loadFights(text) {
 
 function initGame() {
 	game = {};
-	if (window.location.search == "?custom") {
-		game.name = "custom";
-		loadData(localStorage.getItem("calc/custom-data"));
-		return;
-	} else if (window.location.search == "?test" || window.location.search == "?test=") {
-		game.name = "ck+";
+	if (window.location.search == "?test" || window.location.search == "?test=") {
+		game.name = "ck+k";
 		fetchData("test.json");
-	} else if (window.location.search == "?tewu" || window.location.search == "?tewu=") {
-		game.name = "tewu crystal";
-		fetchData("tewu.json");
 	} else {
-		game.name = "ck+";
+		game.name = "ck+k";
 		fetchData("data.json");
 		fetchFights("fights.json");
 	}
