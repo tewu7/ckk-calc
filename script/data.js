@@ -176,7 +176,6 @@ function initGame() {
 }
 
 function selectGame(gameId, dataFile) {
-	game.name = "ck+k";
 	game.id = gameId;
 	fetchData(dataFile);
 	readLocalStorage();
