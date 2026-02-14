@@ -27180,6 +27180,32 @@
                         "sketch"
                     ],
                     "name": "smeargle"
+                },
+                {
+                    "item": "twisted-spoon",
+                    "level": 100,
+                    "moves": [
+                        "psychic",
+                        "thunderbolt",
+                        "ice-beam",
+                        "flamethrower"
+                    ],
+                    "name": "mewtwo"
+                }
+            ]
+        },
+        {
+            "area": "Route 30",
+            "name": "youngster-mikey",
+            "team": [
+                {
+                    "item": "leftovers",
+                    "level": 10,
+                    "moves": [
+                        "poison-sting",
+                        "string-shot"
+                    ],
+                    "name": "weedle"
                 }
             ]
         }
