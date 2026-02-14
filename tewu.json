@@ -27170,11 +27170,11 @@
     },
     "trainers": [
         {
-            "area": "new-bark-town",
-            "name": "real-fight",
+            "area": "Route 30",
+            "name": "youngster-joey",
             "team": [
                 {
-                    "item": "berserk-gene",
+                    "item": "berry",
                     "level": 10,
                     "moves": [
                         "sketch"
