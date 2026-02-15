@@ -27662,14 +27662,14 @@
                 },
                 {
                     "level": 50,
-                    "move": "sludge-bomb"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 55,
                     "move": "ice-beam"
                 },
                 {
-                    "level": 73,
+                    "level": 66,
                     "move": "waterfall"
                 },
                 {
@@ -31149,7 +31149,7 @@
                 },
                 {
                     "level": 39,
-                    "move": "counter"
+                    "move": "mach-punch"
                 },
                 {
                     "level": 45,
@@ -32222,8 +32222,8 @@
                     "move": "body-slam"
                 },
                 {
-                    "level": 37,
-                    "move": "iron-tail"
+                    "level": 38,
+                    "move": "earthquake"
                 },
                 {
                     "level": 40,
@@ -32234,16 +32234,8 @@
                     "move": "rock-slide"
                 },
                 {
-                    "level": 67,
-                    "move": "earthquake"
-                },
-                {
-                    "level": 90,
+                    "level": 65,
                     "move": "double-edge"
-                },
-                {
-                    "level": 95,
-                    "move": "quick-attack"
                 }
             ],
             "name": "tauros",
@@ -48063,28 +48055,6 @@
             "name": "fisher-tully",
             "team": [
                 {
-                    "item": "brightpowder",
-                    "level": 53,
-                    "moves": [
-                        "spikes",
-                        "ice-beam",
-                        "waterfall",
-                        "ancientpower"
-                    ],
-                    "name": "corsola"
-                },
-                {
-                    "item": "focus-band",
-                    "level": 52,
-                    "moves": [
-                        "megahorn",
-                        "ice-beam",
-                        "whirlpool",
-                        "curse"
-                    ],
-                    "name": "seaking"
-                },
-                {
                     "item": "quick-claw",
                     "level": 52,
                     "moves": [
@@ -48094,6 +48064,39 @@
                         "flamethrower"
                     ],
                     "name": "slowking"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 55,
+                    "moves": [
+                        "crabhammer",
+                        "swords-dance",
+                        "metal-claw",
+                        "submission"
+                    ],
+                    "name": "kingler"
+                },
+                {
+                    "item": "brightpowder",
+                    "level": 55,
+                    "moves": [
+                        "megahorn",
+                        "ice-beam",
+                        "whirlpool",
+                        "curse"
+                    ],
+                    "name": "seaking"
+                },
+                {
+                    "item": "gold-berry",
+                    "level": 52,
+                    "moves": [
+                        "octazooka",
+                        "dragonbreath",
+                        "return",
+                        "ice-beam"
+                    ],
+                    "name": "kingdra"
                 }
             ]
         },
